@@ -1,0 +1,1132 @@
+{
+ "classes": [
+  {
+   "color": "#0B6B3A",
+   "exam": "BISE Annual Exam 2027",
+   "icon": "9",
+   "id": "9",
+   "status": "OFFICIAL — Notified 06 Nov 2026 + 14 Nov 2026",
+   "statusType": "official",
+   "subjects": [
+    {
+     "color": "#0B6B3A",
+     "deleted": [
+      "Chapter 1 Physical Quantities & Measurements: 1.6 Mass measuring instruments, 1.7 Time measuring instruments, 1.8 Errors in measurements, 1.10 Uncertainty in a measurement, 1.12 Precision and Accuracy — Ex: Multiple Choice Questions 1.3, 1.6, 1.8, 1.11; Short Questions 1.5, 1.8–1.11; Constructed Response Questions 1.1, 1.2, 1.4, 1.8, 1.10; Comprehensive Questions 1.3–1.5; Numericals 1.2, 1.5, 1.7, 1.9",
+      "Chapter 2 Kinematics: 2.3 Types of Motion, 2.8 Gradient of a distance-time graph, 2.10 Gradient of a speed-time graph — Ex: Multiple Choice Questions 2.5, 2.6, 2.8–2.10; Short Questions 2.6–2.8; Constructed Response Questions 2.1, 2.3–2.5; Comprehensive Questions 2.3, 2.5, 2.7; Numericals 2.5, 2.8, 2.10",
+      "Chapter 3 Dynamics: 3.2 Fundamental forces, 3.3 Forces in a free body diagram, 3.5 Limitation of Newton's laws of motion, 3.7 Mechanical and electronic balances — Ex: Multiple Choice Questions 3.4, 3.7, 3.8; Short Questions 3.7, 3.8, 3.10; Constructed Response Questions 3.3, 3.5; Comprehensive Question 3.6; Numericals 3.5, 3.6, 3.8, 3.9",
+      "Chapter 4 Turning Effects of Force: 4.7 Centre of gravity and centre of mass, 4.11 Improvement of stability, 4.12 Application of stability in real life, Rotational motion vs translational motion — Ex: Multiple Choice Questions 4.4–4.6, 4.8; Short Questions 4.5, 4.6, 4.8–4.10; Constructed Response Questions 4.3, 4.5; Comprehensive Questions 4.2, 4.4; Numericals 4.2, 4.5, 4.6, 4.9, 4.10",
+      "Chapter 5 Work, Energy and Power: 5.4 Sources of energy, 5.6 Advantages and disadvantages of methods of energy production — Ex: Multiple Choice Questions 5.2, 5.4, 5.7; Short Questions 5.3, 5.6, 5.10; Constructed Response Questions 5.2, 5.5, 5.8, 5.9; Comprehensive Questions 5.3, 5.5; Numericals 5.2, 5.5, 5.7–5.9, 5.12, 5.13",
+      "Chapter 6 Mechanical Properties of Matter: Applications of Hooke's law, 6.7 Measurement of atmospheric pressure, 6.8 Measurement of pressure by manometer, Activities 6.1 and 6.6 — Ex: Multiple Choice Questions 6.2, 6.4, 6.5; Short Questions 6.2, 6.6, 6.9; Constructed Response Questions 6.1, 6.3, 6.4, 6.7–6.10; Comprehensive Questions 6.2, 6.5; Numericals 6.3, 6.8, 6.10–6.12",
+      "Chapter 7 Thermal Properties of Matter: 7.1 Kinetic molecular theory of matter, 7.4 Sensitivity, range and linearity of thermometers, 7.5 Structure of a liquid-in-glass thermometer — Ex: Multiple Choice Questions 7.1, 7.2, 7.7, 7.10, 7.11; Short Questions 7.1–7.3, 7.6, 7.9–7.11, 7.14, 7.15; Constructed Response Questions 7.4, 7.5, 7.7, 7.8, 7.10–7.12; Comprehensive Questions 7.1, 7.4, 7.5; Numericals 7.5, 7.6",
+      "Chapter 8 Magnetism: Applications of permanent magnets, Magnetic relay, Telephone receiver, 8.8 Domain theory of magnetism, Alignment of domains, 8.10 Application of Magnets in recording technology, 8.11 Soft iron as magnetic shield — Ex: Multiple Choice Questions 8.3, 8.6–8.8; Short Questions 8.5–8.7; Constructed Response Questions 8.3, 8.5; Comprehensive Questions 8.5, 8.6",
+      "Chapter 9 Nature of Science: 9.4 Interdisciplinary research, 9.6 Scientific base of technology and engineering — Ex: Multiple Choice Questions 9.4, 9.5, 9.7, 9.11; Short Questions 9.3, 9.7, 9.8; Constructed Response Questions 9.5, 9.6, 9.8–9.10; Comprehensive Questions 9.2, 9.4"
+     ],
+     "deletedUr": [
+      "باب 1 طبیعی مقداریں اور ان کی پیمائش: 1.6 ماس کی پیمائش کے آلات؛ 1.7 وقت کے پیمائشی آلات؛ 1.8 پیمائشوں میں غلطیاں؛ 1.10 پیمائش میں غیر یقینیت؛ 1.12 صحیح پیمائش اور درستگی — مشق: کثیر الانتخابی سوالات 1.3، 1.6، 1.8، 1.11؛ مختصر سوالات 1.5، 1.8 تا 1.11؛ تعمیری جوابی سوالات 1.1، 1.2، 1.4، 1.8، 1.10؛ جامع سوالات 1.3 تا 1.5؛ عددی سوالات 1.2، 1.5، 1.7، 1.9",
+      "باب 2 کائینیمیٹکس: 2.3 موشن کی اقسام؛ 2.8 فاصلہ۔وقت گراف کا گریڈینٹ؛ 2.10 سپیڈ۔وقت گراف کا گریڈینٹ — مشق: کثیر الانتخابی سوالات 2.5، 2.6، 2.8 تا 2.10؛ مختصر سوالات 2.6 تا 2.8؛ تعمیری جوابی سوالات 2.1، 2.3 تا 2.5؛ جامع سوالات 2.3، 2.5، 2.7؛ عددی سوالات 2.5، 2.8، 2.10",
+      "باب 3 ڈائنامکس: 3.2 بنیادی فورسز؛ 3.3 فری باڈی ڈایا گرام میں فورسز؛ 3.5 نیوٹن کے قوانین حرکت کی حدود؛ 3.7 میکینیکل اور الیکٹرونک بیلینسز — مشق: کثیر الانتخابی سوالات 3.4، 3.7، 3.8؛ مختصر سوالات 3.7، 3.8، 3.10؛ تعمیری جوابی سوالات 3.3، 3.5؛ جامع سوال 3.6؛ عددی سوالات 3.5، 3.6، 3.8، 3.9",
+      "باب 4 فورس کے گھمانے کے اثرات: 4.7 سنٹر آف گریویٹی اور سنٹر آف ماس؛ 4.11 قیام پذیری میں بہتری؛ 4.12 عملی زندگی میں قیام پذیری کا اطلاق؛ گھومنے کی حرکت بمقابلہ انتقالی حرکت — مشق: کثیر الانتخابی سوالات 4.4 تا 4.6، 4.8؛ مختصر سوالات 4.5، 4.6، 4.8 تا 4.10؛ تعمیری جوابی سوالات 4.3، 4.5؛ جامع سوالات 4.2، 4.4؛ عددی سوالات 4.2، 4.5، 4.6، 4.9، 4.10",
+      "باب 5 ورک، انرجی اور پاور: 5.4 انرجی کے ذرائع؛ 5.6 انرجی پیدا کرنے والے ذرائع کے فوائد اور نقصانات — مشق: کثیر الانتخابی سوالات 5.2، 5.4، 5.7؛ مختصر سوالات 5.3، 5.6، 5.10؛ تعمیری جوابی سوالات 5.2، 5.5، 5.8، 5.9؛ جامع سوالات 5.3، 5.5؛ عددی سوالات 5.2، 5.5، 5.7 تا 5.9، 5.12، 5.13",
+      "باب 6 مادے کی میکینیکل خصوصیات: ہک کے قانون کے اطلاقات؛ 6.7 فضائی پریشر کی پیمائش؛ 6.8 مینومیٹر کے ذریعے پریشر کی پیمائش؛ سرگرمیاں 6.1 اور 6.6 — مشق: کثیر الانتخابی سوالات 6.2، 6.4، 6.5؛ مختصر سوالات 6.2، 6.6، 6.9؛ تعمیری جوابی سوالات 6.1، 6.3، 6.4، 6.7 تا 6.10؛ جامع سوالات 6.2، 6.5؛ عددی سوالات 6.3، 6.8، 6.10 تا 6.12",
+      "باب 7 مادے کی حرارتی خصوصیات: 7.1 مادے کا حرکی ذراتی نظریہ؛ 7.4 تھرما میٹر کی حساسیت، رینج اور خطیت؛ 7.5 شیشے میں مائع تھرما میٹر کی ساخت — مشق: کثیر الانتخابی سوالات 7.1، 7.2، 7.7، 7.10، 7.11؛ مختصر سوالات 7.1 تا 7.3، 7.6، 7.9 تا 7.11، 7.14، 7.15؛ تعمیری جوابی سوالات 7.4، 7.5، 7.7، 7.8، 7.10 تا 7.12؛ جامع سوالات 7.1، 7.4، 7.5؛ عددی سوالات 7.5، 7.6",
+      "باب 8 میگنیٹزم: مستقل میگنیٹس کے اطلاقات؛ میگنیٹک ریلے؛ ٹیلی فون ریسیور؛ 8.8 میگنیٹزم کی ڈومین تھیوری؛ ڈومینز کی ہم آہنگی؛ 8.10 ریکارڈنگ ٹیکنالوجی میں میگنیٹس کا استعمال؛ 8.11 نرم لوہا بطور میگنیٹک شیلڈ — مشق: کثیر الانتخابی سوالات 8.3، 8.6 تا 8.8؛ مختصر سوالات 8.5 تا 8.7؛ تعمیری جوابی سوالات 8.3، 8.5؛ جامع سوالات 8.5، 8.6",
+      "باب 9 سائنس کی ماہیت: 9.4 بین الشعبہ جاتی ریسرچ؛ 9.6 ٹیکنالوجی اور انجینئرنگ کی سائنسی بنیاد — مشق: کثیر الانتخابی سوالات 9.4، 9.5، 9.7، 9.11؛ مختصر سوالات 9.3، 9.7، 9.8؛ تعمیری جوابی سوالات 9.5، 9.6، 9.8 تا 9.10؛ جامع سوالات 9.2، 9.4"
+     ],
+     "icon": "⚛️",
+     "id": "phy9",
+     "instructions": [
+      "All questions are set from the entire textbook EXCEPT the topics / questions deleted in Annex-A.",
+      "Objective: 15 minutes. Subjective: 1 hour 45 minutes.",
+      "Full model paper (Objective + Subjective) is in Annex-A."
+     ],
+     "instructionsUr": [
+      "تمام سوالات پوری کتاب سے بنائے جائیں گے سوائے ان عنوانات / سوالات کے جو ضمیمہ الف میں حذف کیے گئے ہیں۔",
+      "معروضی: 15 منٹ۔ انشائی: 1 گھنٹہ 45 منٹ۔",
+      "مکمل نمونہ پرچہ (معروضی + انشائی) ضمیمہ الف میں ہے۔"
+     ],
+     "name": "Physics",
+     "nameUr": "طبیعیات",
+     "objective": 12,
+     "pairing": "Question 1: 12 Multiple Choice Questions — 2 each from Chapter 3, 4, 6; 1 each from Chapter 1, 2, 5, 7, 8, 9.  Question 2–Question 4: 5 short questions out of 8 each (10 marks each).  Question 5–Question 7: attempt 2 long questions, 9 marks each (4 + 5).",
+     "pairingUr": "سوال نمبر 1: 12 کثیر الانتخابی سوالات — باب 3، 4، 6 میں سے ہر ایک سے 2؛ باب 1، 2، 5، 7، 8، 9 میں سے ہر ایک سے 1۔ سوال نمبر 2 تا سوال نمبر 4: ہر ایک میں 8 میں سے 5 مختصر سوالات (ہر ایک 10 نمبر)۔ سوال نمبر 5 تا سوال نمبر 7: 2 طویل سوالات حل کریں، ہر ایک 9 نمبر (4 + 5)۔",
+     "subjective": 48,
+     "summary": "All 9 chapters retained — only the listed topics and exercise questions in each chapter are deleted.",
+     "summaryUr": "تمام 9 ابواب برقرار ہیں — صرف ہر باب میں درج شدہ عنوانات اور مشقی سوالات حذف کیے گئے ہیں۔",
+     "time": "2 hours",
+     "totalMarks": 60
+    },
+    {
+     "color": "#1565C0",
+     "deleted": [
+      "Chapter 1 States of Matter and Phase of Change: 1.2 States of Matter, 1.4 Allotropic Forms of Substances, 1.8 Effect of Temperature on the Solubility of Solutes — Ex: Multiple Choice Questions iv, vii, ix, x; Short Questions iii, iv, vii; Constructed Response Questions iv–viii; Descriptive Questions ii, iv; Inquisitive Questions ii",
+      "Chapter 2 Atomic Structure: 2.3 Isotopes and their Masses (Radioactive Isotopes, Application of Radioactive Isotopes, Ionization of atoms by Radioactive Sources) — Ex: Multiple Choice Questions vii, x; Short Questions iv, v; Constructed Response Questions iv, v; Descriptive Questions iii, iv; Inquisitive Questions i",
+      "Chapter 3 Chemical Bonding: 3.6 Compare the Properties of Ionic and Covalent Compounds, 3.8 Nature of Bonding and Properties — Ex: Multiple Choice Questions v, ix; Short Questions ii, iv; Constructed Response Questions v, vi; Descriptive Questions ii, iv, v; Inquisitive Questions i, ii",
+      "Chapter 4 Stoichiometry: no topic deleted — Ex: Multiple Choice Questions viii–x; Short Questions ii; Constructed Response Questions iv, v; Descriptive Questions iii; Inquisitive Questions i, ii",
+      "Chapter 5 Energetics: partial part of 5.3 Exothermic and Endothermic Reactions (last para, pages 71–74) — Ex: Multiple Choice Questions vi, vii, ix, x; Short Questions iv; Constructed Response Questions i, iii; Descriptive Questions i, iv; Inquisitive Questions ii",
+      "Chapter 6 Equilibria: 6.3 Changing the Physical Conditions of a Chemical Reaction — Ex: Multiple Choice Questions iii, iv, vii, x; Short Questions ii, v; Constructed Response Questions iv, v; Descriptive Questions iii, v; Inquisitive Questions i, ii",
+      "Chapter 7 Acid Base Chemistry: 7.5 Acid Rain and its Effects — Ex: Multiple Choice Questions vii, x; Short Questions v; Constructed Response Questions ii; Descriptive Questions iv, v; Inquisitive Questions i",
+      "Chapter 8 Periodic Table and Periodicity: 8.5 Metallic Character and Reactivity — Ex: Multiple Choice Questions viii, ix; Short Questions ix, x; Constructed Response Questions v; Descriptive Questions iv, vi; Inquisitive Questions ii",
+      "Chapter 9 Group Properties and Elements: 9.5 Physical Properties of Metals and Non-Metals — Ex: Multiple Choice Questions viii, ix; Short Questions v; Constructed Response Questions vi, vii; Descriptive Questions iii, vi; Inquisitive Questions iii",
+      "Chapter 10 Environmental Chemistry: 10.4 Global Warming (Greenhouse Effect), 10.5 Strategies to Reduce Environmental Issues — Ex: Multiple Choice Questions i, ix; Short Questions ii, iii, vi, vii; Constructed Response Questions iii–v; Descriptive Questions ii, iii, v; Inquisitive Questions i, ii",
+      "Chapter 11 Hydrocarbons: 11.4 Important Reactions — Ex: Multiple Choice Questions vi, ix, x; Short Questions iii, viii, ix; Constructed Response Questions iv, v; Descriptive Questions iii, v; Inquisitive Questions i",
+      "Chapter 12 Empirical Data Collection and Analysis — FULL CHAPTER DELETED",
+      "Chapter 13 Laboratory and Practical Skills — FULL CHAPTER DELETED"
+     ],
+     "deletedUr": [
+      "باب 1 مادہ کی حالتیں اور ان میں تبدیلیاں: 1.2 مادہ کی مختلف حالتیں؛ 1.4 اشیا کی ایلوٹراپک فارمز؛ 1.8 سولیوٹس کی سولیوبیلٹی پر درجہ حرارت کا اثر — مشق: کثیر الانتخابی سوالات iv، vii، ix، x؛ مختصر سوالات iii، iv، vii؛ تعمیری جوابی سوالات iv تا viii؛ تشریحی سوالات ii، iv؛ استفساری سوالات ii",
+      "باب 2 ایٹم کی ساخت: 2.3 آئسوٹوپس اور ان کے ماسز (ریڈیو ایکٹیو آئسوٹوپس، ریڈیو ایکٹیو آئسوٹوپس کے استعمال، ریڈیو ایکٹیو ماخذ کی مدد سے ایٹموں کی آئنائزیشن) — مشق: کثیر الانتخابی سوالات vii، x؛ مختصر سوالات iv، v؛ تعمیری جوابی سوالات iv، v؛ تشریحی سوالات iii، iv؛ استفساری سوالات i",
+      "باب 3 کیمیکل بانڈنگ: 3.6 آئیونک اور کوویلنٹ کمپاؤنڈز کی خصوصیات میں تقابل؛ 3.8 اشیا میں موجود بانڈنگ اور ان کی خصوصیات کا آپس میں تعلق — مشق: کثیر الانتخابی سوالات v، ix؛ مختصر سوالات ii، iv؛ تعمیری جوابی سوالات v، vi؛ تشریحی سوالات ii، iv، v؛ استفساری سوالات i، ii",
+      "باب 4 سٹائیوشیومیٹری: کوئی عنوان حذف نہیں — مشق: کثیر الانتخابی سوالات viii تا x؛ مختصر سوالات ii؛ تعمیری جوابی سوالات iv، v؛ تشریحی سوالات iii؛ استفساری سوالات i، ii",
+      "باب 5 توانائی اور اس میں تبدیلیاں: 5.3 ایکزوتھرمک اور اینڈوتھرمک ری ایکشنز کا جزوی حصہ (آخری پیرا، صفحات 71 تا 74) — مشق: کثیر الانتخابی سوالات vi، vii، ix، x؛ مختصر سوالات iv؛ تعمیری جوابی سوالات i، iii؛ تشریحی سوالات i، iv؛ استفساری سوالات ii",
+      "باب 6 ایکویلیبریا: 6.3 (کتاب میں 6.2) کیمیائی ری ایکشن کی کچھ شرائط میں تبدیلی — مشق: کثیر الانتخابی سوالات iii، iv، vii، x؛ مختصر سوالات ii، v؛ تعمیری جوابی سوالات iv، v؛ تشریحی سوالات iii، v؛ استفساری سوالات i، ii",
+      "باب 7 ایسڈ بیس کیمسٹری: 7.5 ایسڈ رین اور اس کے اثرات — مشق: کثیر الانتخابی سوالات vii، x؛ مختصر سوالات v؛ تعمیری جوابی سوالات ii؛ تشریحی سوالات iv، v؛ استفساری سوالات i",
+      "باب 8 پیریڈک ٹیبل اور پیریڈسٹی کی خصوصیات: 8.5 میٹلک کریکٹر اور ری ایکٹیویٹی — مشق: کثیر الانتخابی سوالات viii، ix؛ مختصر سوالات ix، x؛ تعمیری جوابی سوالات v؛ تشریحی سوالات iv، vi؛ استفساری سوالات ii",
+      "باب 9 گروپ کی خصوصیات اور ایلیمنٹس: 9.5 میٹلز اور نان میٹلز کی طبعی خصوصیات — مشق: کثیر الانتخابی سوالات viii، ix؛ مختصر سوالات v؛ تعمیری جوابی سوالات vi، vii؛ تشریحی سوالات iii، vi؛ استفساری سوالات iii",
+      "باب 10 ماحولیاتی کیمسٹری: 10.4 گلوبل وارمنگ اور گرین ہاؤس ایفیکٹ؛ 10.5 ماحولیاتی مسائل کو کم کرنے کی حکمت عملی — مشق: کثیر الانتخابی سوالات i، ix؛ مختصر سوالات ii، iii، vi، vii؛ تعمیری جوابی سوالات iii تا v؛ تشریحی سوالات ii، iii، v؛ استفساری سوالات i، ii",
+      "باب 11 ہائیڈرو کاربنز: 11.4 الکینز کے اہم ری ایکشنز — مشق: کثیر الانتخابی سوالات vi، ix، x؛ مختصر سوالات iii، viii، ix؛ تعمیری جوابی سوالات iv، v؛ تشریحی سوالات iii، v؛ استفساری سوالات i",
+      "باب 12 تجرباتی ڈیٹا اکٹھا کرنا اور اس کا تجزیہ — مکمل باب حذف",
+      "باب 13 لیبارٹری اور پریکٹیکل کے کاموں میں مہارت — مکمل باب حذف"
+     ],
+     "icon": "🧪",
+     "id": "chem9",
+     "instructions": [
+      "All questions are set from the entire textbook EXCEPT the topics / questions deleted in Annex-A.",
+      "Objective: 15 minutes. Subjective: 1 hour 45 minutes.",
+      "Full model paper is in Annex-A."
+     ],
+     "instructionsUr": [
+      "تمام سوالات پوری کتاب سے بنائے جائیں گے سوائے ان عنوانات / سوالات کے جو ضمیمہ الف میں حذف کیے گئے ہیں۔",
+      "معروضی: 15 منٹ۔ انشائی: 1 گھنٹہ 45 منٹ۔",
+      "مکمل نمونہ پرچہ ضمیمہ الف میں ہے۔"
+     ],
+     "name": "Chemistry",
+     "nameUr": "کیمسٹری",
+     "objective": 12,
+     "pairing": "Question 1: 12 Multiple Choice Questions — 1 each from Chapter 1–10, 2 from Chapter 11.  Question 2: Chapter 1–4, Question 3: Chapter 5–8, Question 4: Chapter 9–11 — 5 short out of 8 each.  Question 5–Question 7: attempt 2 long questions, 9 marks each.",
+     "pairingUr": "سوال نمبر 1: 12 کثیر الانتخابی سوالات — باب 1 تا 10 میں سے ہر ایک سے 1، باب 11 سے 2۔ سوال نمبر 2: باب 1 تا 4، سوال نمبر 3: باب 5 تا 8، سوال نمبر 4: باب 9 تا 11 — ہر ایک میں 8 میں سے 5 مختصر سوالات۔ سوال نمبر 5 تا سوال نمبر 7: 2 طویل سوالات حل کریں، ہر ایک 9 نمبر۔",
+     "subjective": 48,
+     "summary": "Paper is set only from Chapters 1–11. Chapters 12 and 13 are fully deleted.",
+     "summaryUr": "پرچہ صرف ابواب 1 تا 11 سے بنایا جائے گا۔ ابواب 12 اور 13 مکمل حذف ہیں۔",
+     "time": "2 hours",
+     "totalMarks": 60
+    },
+    {
+     "color": "#2E7D32",
+     "deleted": [
+      "Chapter 1 The Science of Biology: 1.2 Relation of Biology with other sciences, 1.3 Careers in Biology, 1.5 Science as a collaborative field, 1.8 Malaria — An example of Biological Method; Key Points; Multiple Choice Question Number 9 & 10; Short Questions 3 & 5; Long Questions 1–3 & 6–7; Inquisitive Questions (all)",
+      "Chapter 2 Biodiversity: Advantages of classification, History of classification, Tables (pages 28, 31, 35), Box (page 36); Key Points; Multiple Choice Questions 8–10; Short Questions 1, 2 & 4; Long Questions 1 & 2; Inquisitive Questions (all)",
+      "Chapter 3 The Cell: Side box and Table (page 52), Table (page 53), 3.3 Structural Advantages of Plant and Animal Cells, Division of Labour within and across cells; Key Points; Multiple Choice Questions 4, 11 & 14; Short Questions 4, 10 & 14; Long Questions 8 & 9; Inquisitive Questions (all)",
+      "Chapter 4 Cell Cycle: Box (page 65), 4.4 Comparison between Meiosis and Mitosis; Key Points; Multiple Choice Questions 3 & 8; Short Questions 8 & 10; Long Question 2; Inquisitive Questions (all)",
+      "Chapter 5 Tissues, Organs and Organ System: Emergent Properties, Role of Organ System in Homeostasis; Key Points; Multiple Choice Questions 1, 3 & 7; Short Questions 5 & 7; Long Questions 6, 9 & 10; Inquisitive Questions (all)",
+      "Chapter 6 Biomolecules: Key Points; Multiple Choice Questions 1 & 8; Short Questions 1 & 4; Long Question 6; Inquisitive Questions (all)",
+      "Chapter 7 Enzymes: Key Points; Multiple Choice Questions 1 & 4; Short Questions 2 & 5; Long Question 4; Inquisitive Questions (all)",
+      "Chapter 8 Bioenergetics: Use of Respiratory energy in Body, Tables, Figure 8.8; Key Points; Multiple Choice Questions 3 & 9; Short Questions 3, 7, 8, 9; Long Questions 3 & 6; Inquisitive Questions (all)",
+      "Chapter 9 Plant Physiology: Roles of Nitrogen and Magnesium; Key Points; Multiple Choice Questions 4 & 7; Short Questions 1 & 3; Long Questions 3 & 8; Inquisitive Questions (all)",
+      "Chapter 10 Reproduction in Plants: Key Points; Multiple Choice Questions 4 & 10; Short Questions 3 & 10; Inquisitive Questions (all)",
+      "Chapter 11 Biostatistics — ENTIRE CHAPTER DELETED (pages 167–175)",
+      "Glossary — COMPLETELY DELETED (pages 176–180)"
+     ],
+     "deletedUr": [
+      "باب 1 بائیولوجی کی سائنس: 1.2 بائیولوجی کا دوسرے سائنسی علوم سے تعلق؛ 1.3 بائیولوجی سے منسلک پیشے؛ 1.5 سائنس بطور ایک مشترکہ شعبہ؛ 1.8 ملیریا — بائیولوجیکل طریقہ کار کی ایک مثال؛ اہم نکات؛ مشق: کثیر الانتخابی سوالات 9، 10؛ مختصر سوالات 3، 5؛ طویل سوالات 1 تا 3، 6 تا 7؛ تحقیقی سوالات (تمام)",
+      "باب 2 بائیو ڈائیورسٹی: کلاسیفیکیشن کے فوائد؛ کلاسیفیکیشن کی تاریخ؛ جداول (صفحات 28، 31، 35)، باکس (صفحہ 36)؛ اہم نکات؛ مشق: کثیر الانتخابی سوالات 8 تا 10؛ مختصر سوالات 1، 2 اور 4؛ طویل سوالات 1 اور 2؛ تحقیقی سوالات (تمام)",
+      "باب 3 سیل: سائیڈ باکس اور جدول (صفحہ 52)، جدول (صفحہ 53)؛ 3.3 پودے اور جانور کے سیل کی ساخت کے فوائد؛ سیلز کے اندر اور درمیان کام کی تقسیم؛ اہم نکات؛ مشق: کثیر الانتخابی سوالات 4، 11 اور 14؛ مختصر سوالات 4، 10 اور 14؛ طویل سوالات 8 اور 9؛ تحقیقی سوالات (تمام)",
+      "باب 4 سیل سائیکل: باکس (صفحہ 65)؛ 4.4 می اوسس اور مائی ٹوسس کا موازنہ؛ اہم نکات؛ مشق: کثیر الانتخابی سوالات 3 اور 8؛ مختصر سوالات 8 اور 10؛ طویل سوالات 2؛ تحقیقی سوالات (تمام)",
+      "باب 5 ٹشوز، آرگنز، اور آرگن سسٹمز: امرجنگ خصوصیات؛ ہومیوسٹیسس میں آرگن سسٹم کا کردار؛ اہم نکات؛ مشق: کثیر الانتخابی سوالات 1، 3 اور 7؛ مختصر سوالات 5 اور 7؛ طویل سوالات 6، 9 اور 10؛ تحقیقی سوالات (تمام)",
+      "باب 6 بائیو مالیکیولز: اہم نکات؛ مشق: کثیر الانتخابی سوالات 1 اور 8؛ مختصر سوالات 1 اور 4؛ طویل سوالات 6؛ تحقیقی سوالات (تمام)",
+      "باب 7 اینزائمز: اہم نکات؛ مشق: کثیر الانتخابی سوالات 1 اور 4؛ مختصر سوالات 2 اور 5؛ طویل سوالات 4؛ تحقیقی سوالات (تمام)",
+      "باب 8 بائیو انرجیٹکس: ریسپیریشن سے حاصل کردہ توانائی کا جسم میں استعمال؛ جداول؛ شکل 8.8 گلوکوز کی ایروبک آکسیڈیشن سے پیدا ہونے والی اے ٹی پی کی تعداد کا ایک جائزہ؛ اہم نکات؛ مشق: کثیر الانتخابی سوالات 3 اور 9؛ مختصر سوالات 3، 7، 8، 9؛ طویل سوالات 3 اور 6؛ تحقیقی سوالات (تمام)",
+      "باب 9 پودوں کی فزیالوجی: نائٹروجن اور میگنیشیم کا کردار؛ اہم نکات؛ مشق: کثیر الانتخابی سوالات 4 اور 7؛ مختصر سوالات 1 اور 3؛ طویل سوالات 3 اور 8؛ تحقیقی سوالات (تمام)",
+      "باب 10 پودوں میں ری پروڈکشن: اہم نکات؛ مشق: کثیر الانتخابی سوالات 4 اور 10؛ مختصر سوالات 3 اور 10؛ تحقیقی سوالات (تمام)",
+      "باب 11 بائیو سٹیٹسٹکس — مکمل باب حذف ہے",
+      "فرہنگ — مکمل طور پر حذف ہے"
+     ],
+     "icon": "🌿",
+     "id": "bio9",
+     "instructions": [
+      "All questions are set from the entire textbook EXCEPT the topics / questions deleted in Annex-A.",
+      "Objective: 15 minutes. Subjective: 1 hour 45 minutes.",
+      "Full model paper is in Annex-A."
+     ],
+     "instructionsUr": [
+      "تمام سوالات پوری کتاب سے بنائے جائیں گے سوائے ان عنوانات / سوالات کے جو ضمیمہ الف میں حذف کیے گئے ہیں۔",
+      "معروضی: 15 منٹ۔ انشائی: 1 گھنٹہ 45 منٹ۔",
+      "مکمل نمونہ پرچہ ضمیمہ الف میں ہے۔"
+     ],
+     "name": "Biology",
+     "nameUr": "حیاتیات",
+     "objective": 12,
+     "pairing": "Question 1: 12 Multiple Choice Questions — 1 each from Chapter 1–8, 2 each from Chapter 9, 10.  Question 2: Chapter 1–3, Question 3: Chapter 4–6 & 10, Question 4: Chapter 7–9 — 5 short out of 8 each.  Question 5–Question 7: attempt 2 long questions, 9 marks each (Chapter 2+3, Chapter 6+7, Chapter 9+10).",
+     "pairingUr": "سوال نمبر 1: 12 کثیر الانتخابی سوالات — باب 1 تا 8 میں سے ہر ایک سے 1، باب 9، 10 میں سے ہر ایک سے 2۔ سوال نمبر 2: باب 1 تا 3، سوال نمبر 3: باب 4 تا 6 اور 10، سوال نمبر 4: باب 7 تا 9 — ہر ایک میں 8 میں سے 5 مختصر سوالات۔ سوال نمبر 5 تا سوال نمبر 7: 2 طویل سوالات حل کریں، ہر ایک 9 نمبر (باب 2+3، باب 6+7، باب 9+10)۔",
+     "subjective": 48,
+     "summary": "Paper is set only from Chapters 1–10. Chapter 11 and the Glossary are fully deleted.",
+     "summaryUr": "پرچہ صرف ابواب 1 تا 10 سے بنایا جائے گا۔ باب 11 اور فرہنگ مکمل حذف ہیں۔",
+     "time": "2 hours",
+     "totalMarks": 60
+    },
+    {
+     "color": "#6A1B9A",
+     "deleted": [
+      "Unit 1 Real Numbers: 1.1 Introduction to Real Numbers (pages 1–3); 1.3 Application in Daily Life (pages 14–15); 1.3.1 Temperature Conversion, Example 10; 1.3.2 Profit and Loss, Examples 11–14; Exercise 1.3 (complete); Review Exercise 1: Question 3, 5, 8–10",
+      "Unit 2 Logarithms: 2.4 Laws of Logarithm, Examples 12–15; Exercise 2.4 (complete); Review Exercise 2: Question 1 (ix & x), Question 7–10",
+      "Unit 3 Sets and Functions: Introduction (page 37); 3.1 Mathematics as the Study of Patterns, Structures and Relationships (pages 37–39, before the definition of Set); Example 5; Exercise 3.2 Question 9, 11–13; 3.3 Binary Relations, Examples 7, 8; 3.3.1 Relation as Table, Ordered Pair and Graphs; 3.3.2 Functions and its Domain and Range, Example 9; 3.3.3 Notation of Function; 3.3.4 Linear and Quadratic Functions, Examples 10, 11; Exercise 3.3 (complete); Review Exercise 3: Question 1 (vii–x), Question 10–16",
+      "Unit 4 Factorization and Algebraic Manipulation: 4.4 Square Root of an Algebraic Expression, Examples 26, 27; 4.4.1 Real World Problems of Factorization, Examples 28–30; Exercise 4.4 (complete); Review Exercise 4: Question 1 (vi), Question 4 & 5",
+      "Unit 5 Linear Equations and Inequalities: 5.3 Feasible Solution, Example 6; 5.3.2 Maximum and Minimum Values of a Function in the Feasible Solution, Example 7; Exercise 5.2 (complete); Review Exercise 5: Question 1 (ix–x), Question 3–5",
+      "Unit 6 Trigonometry: Example 12; Exercise 6.3 Question 10–12; Exercise 6.4 Question 2 (vii & viii), Question 3 (iii); Exercise 6.5 Question 5, 6 & 9; 6.6 Angle of Elevation and Angle of Depression, Examples 19 & 20; Exercise 6.6 (complete); Review Exercise 6: Question 3 (iii–vi), 5, 6",
+      "Unit 7 Coordinate Geometry: Exercise 7.1 Question 6, 9 & 10; Exercise 7.2 Question 2 (iii, iv), 12 & 13; 7.3 Applications of Coordinate Geometry in Real Life, Examples 14–20; Exercise 7.3 (complete); Review Exercise 7: Question 4–10",
+      "Unit 8 Logic — COMPLETE CHAPTER EXCLUDED",
+      "Unit 9 Similar Figures: Exercise 9.1 Question 8 & 9; Exercise 9.2 Question 5 & 8; 9.4 Geometrical properties of polygon and their applications; 9.4.1 Regular polygon; 9.4.2 Triangle; 9.4.3 Parallelogram, Example 13; 9.4.4 Applications of polygon, Examples 14–18; Exercise 9.4 (complete); Review Exercise 9: Question 1 (vii–x), Question 4, 7, 8 & 9",
+      "Unit 10 Graphs of Functions: 10.2 Exponential Growth / Decay of a Practical Phenomenon through its Graph, Example 12; 10.2.1 Gradients of Curves by Drawing Tangents, Example 13; 10.2.2 Application of Graph in Real Life, Examples 14, 15; Exercise 10.2 (complete); Review Exercise 10: Question 3, 5–7",
+      "Unit 11 Loci and Construction: 11.5.2 Intersection of Loci, Examples 10–12; 11.6 Real Life Application of Loci; Exercise 11.2 (complete); Review Exercise 11: Question 1 (v–x), Question 2–8",
+      "Unit 12 Information Handling: Exercise 12.1 Question 8; 12.2.4 Weighted Mean, Examples 19, 20; Exercise 12.2 Question 13–20; Review Exercise 12: Question 7 & 12",
+      "Unit 13 Probability: 13.6 Expected Frequency, Example 11; 13.7 Real Life Application on Expected Frequency, Examples 12, 13; Exercise 13.2 Question 5–8; Review Exercise 13: Question 1 (v), 2–7"
+     ],
+     "deletedUr": [
+      "یونٹ 1 حقیقی اعداد: 1.1 حقیقی اعداد کا تعارف (صفحات 1 تا 3)؛ 1.3 روزمرہ زندگی میں حقیقی اعداد کا اطلاق (صفحات 14 تا 15)؛ 1.3.1 درجہ حرارت کی تبدیلیاں، مثال 10؛ 1.3.2 نفع اور نقصان، مثالیں 11 تا 14؛ مشق 1.3 (مکمل)؛ جائزہ مشق 1: سوال 3، 5، 8 تا 10",
+      "یونٹ 2 لوگارتھم: 2.4 لوگارتھم کے قوانین، مثالیں 12 تا 15؛ مشق 2.4 (مکمل)؛ جائزہ مشق 2: سوال 1 (ix اور x)، سوال 7 تا 10",
+      "یونٹ 3 سیٹ اور فنکشن: تعارف (صفحہ 37)؛ 3.1 ریاضی نمونوں، ساختوں اور روابط کے طور پر (صفحات 37 تا 39، سیٹ کی تعریف سے پہلے)؛ مثال 5؛ مشق 3.2 سوال 9، 11 تا 13؛ 3.4 ثنائی ربط، مثالیں 7، 8؛ 3.4.1 ربط بطور جدول، مرتب جوڑا اور گراف؛ 3.4.2 فنکشن اور اس کا ڈومین اور رینج، مثال 9؛ 3.4.3 فنکشن کی علامت؛ 3.4.4 خطی اور دو درجی فنکشن، مثالیں 10، 11؛ مشق 3.3 (مکمل)؛ جائزہ مشق 3: سوال 1 (vii تا x)، سوال 10 تا 16",
+      "یونٹ 4 تجزی اور الجبرائی مہارت: 4.3 الجبری جملوں کا جزر المربع، مثالیں 26، 27؛ 4.3.1 تجزی سے متعلق حقیقی دنیا کے مسائل، مثالیں 28 تا 30؛ مشق 4.4 (مکمل)؛ جائزہ مشق 4: سوال 1 (vi)، سوال 4 اور 5",
+      "یونٹ 5 ایک درجی مساواتیں اور غیر مساواتیں: 5.3 قابل عمل حل، مثال 6؛ 5.3.2 قابل عمل حل میں کسی فنکشن کی زیادہ سے زیادہ اور کم سے کم قیمتیں، مثال 7؛ مشق 5.2 (مکمل)؛ جائزہ مشق 5: سوال 1 (ix تا x)، سوال 3 تا 5",
+      "یونٹ 6 ٹرگنومیٹری: مثال 12؛ مشق 6.3 سوال 10 تا 12؛ مشق 6.4 سوال 2 (vii اور viii)، سوال 3 (iii)؛ مشق 6.5 سوال 5، 6 اور 9؛ 6.6 زاویہ صعود اور زاویہ نزول، مثالیں 19 اور 20؛ مشق 6.6 (مکمل)؛ جائزہ مشق 6: سوال 3 (iii تا vi)، 5، 6",
+      "یونٹ 7 مختصاتی جیومیٹری: مشق 7.1 سوال 6، 9 اور 10؛ مشق 7.2 سوال 2 (iii، iv)، 12 اور 13؛ 7.3 حقیقی زندگی میں مختصاتی جیومیٹری کا اطلاق، مثالیں 14 تا 20؛ مشق 7.3 (مکمل)؛ جائزہ مشق 7: سوال 4 تا 10",
+      "یونٹ 8 منطق — مکمل باب خارج",
+      "یونٹ 9 تشابہ اشکال: مشق 9.1 سوال 8 اور 9؛ مشق 9.2 سوال 5 اور 8؛ 9.4 کثیر الاضلاع کی جیومیٹریکل خصوصیات اور اُن کا اطلاق؛ 9.4.1 منظم کثیر الاضلاع کی جیومیٹریکل خصوصیات؛ 9.4.2 مثلث کی جیومیٹریکل خصوصیات؛ 9.4.3 متوازی الاضلاع کی جیومیٹریکل خصوصیات، مثال 13؛ 9.4.4 کثیر الاضلاع کا عملی زندگی میں اطلاق، مثالیں 14 تا 18؛ مشق 9.4 (مکمل)؛ جائزہ مشق 9: سوال 1 (vii تا x)، سوال 4، 7، 8 اور 9",
+      "یونٹ 10 فنکشنز کے گراف: 10.2 گراف کے ذریعے کسی عملی مظہر کی قوت نمائی بڑھوتری / اضمحلال کو دریافت کرنا، مثال 12؛ 10.2.1 مماس بنا کر منحنی خطوط کے ڈھالوں کا تعین کرنا، مثال 13؛ 10.2.2 حقیقی زندگی میں گراف کا اطلاق، مثالیں 14، 15؛ مشق 10.2 (مکمل)؛ جائزہ مشق 10: سوال 3، 5 تا 7",
+      "یونٹ 11 لوکس اور بناوٹ: 11.5.2 لوکائی کا تقاطع، مثالیں 10 تا 12؛ 11.6 لوسائی کا حقیقی زندگی میں اطلاق؛ مشق 11.2 (مکمل)؛ جائزہ مشق 11: سوال 1 (v تا x)، سوال 2 تا 8",
+      "یونٹ 12 معلوماتی معاملات: مشق 12.1 سوال 8؛ 12.2.4 اوزنی اوسط، مثالیں 19، 20؛ مشق 12.2 سوال 13 تا 20؛ جائزہ مشق 12: سوال 7 اور 12",
+      "یونٹ 13 احتمال: 13.6 متوقع تعدد، مثال 11؛ 13.7 متوقع تعدد کا حقیقی زندگی میں اطلاق، مثالیں 12، 13؛ مشق 13.2 سوال 5 تا 8؛ جائزہ مشق 13: سوال 1 (v)، 2 تا 7"
+     ],
+     "icon": "➗",
+     "id": "math9",
+     "instructions": [
+      "Paper: Objective 20 minutes, Subjective 2 hours 10 minutes.",
+      "Focus on the key Student Learning Outcomes (SLOs) in the retained content.",
+      "Full model paper is in Annex-A."
+     ],
+     "instructionsUr": [
+      "پرچہ: معروضی 20 منٹ، انشائی 2 گھنٹے 10 منٹ۔",
+      "برقرار رکھے گئے مواد میں اہم طلبہ سیکھنے کے نتائج (SLOs) پر توجہ دیں۔",
+      "مکمل نمونہ پرچہ ضمیمہ الف میں ہے۔"
+     ],
+     "name": "Mathematics",
+     "nameUr": "ریاضی",
+     "objective": 15,
+     "pairing": "Question 1: 15 Multiple Choice Questions — 1 each from Chapter 1, 2, 5, 7, 9, 10, 11, 12, 13; 2 each from Chapter 3, 4, 6.  Question 2–Question 4: attempt 6 out of 9 short questions each (12 marks each).  Question 5–Question 7: attempt 2 long (8 marks each).  Question 8–Question 9: attempt 1 long (8 marks).",
+     "pairingUr": "سوال نمبر 1: 15 کثیر الانتخابی سوالات — باب 1، 2، 5، 7، 9، 10، 11، 12، 13 میں سے ہر ایک سے 1؛ باب 3، 4، 6 میں سے ہر ایک سے 2۔ سوال نمبر 2 تا سوال نمبر 4: ہر ایک میں 9 میں سے 6 مختصر سوالات حل کریں (ہر ایک 12 نمبر)۔ سوال نمبر 5 تا سوال نمبر 7: 2 طویل سوالات حل کریں (ہر ایک 8 نمبر)۔ سوال نمبر 8 تا سوال نمبر 9: 1 طویل سوال حل کریں (8 نمبر)۔",
+     "subjective": 60,
+     "summary": "Smart / Reduced Syllabus: every excluded exercise, example and question is listed unit-wise — Unit 8 (Logic) is fully excluded.",
+     "summaryUr": "سمارٹ / مختصر نصاب: ہر خارج شدہ مشق، مثال اور سوال یونٹ وار درج ہے — یونٹ 8 (منطق) مکمل خارج ہے۔",
+     "time": "2 hours 30 min",
+     "totalMarks": 75
+    },
+    {
+     "color": "#C62828",
+     "deleted": [
+      "Unit 5: Women Empowerment through Entrepreneurship (pages 58–71) — DELETED",
+      "Unit 8: The Impact of Globalisation on Culture and Economy (pages 93–105) — DELETED",
+      "Unit 10: The Silent Predator and the Majestic Prey — Snow Leopard and Markhor (pages 120–131) — DELETED",
+      "Teachers are requested not to teach these units."
+     ],
+     "icon": "📖",
+     "id": "eng9",
+     "instructions": [
+      "No objective, subjective or other question will be set from Units 5, 8 and 10.",
+      "Objective: 20 minutes. Subjective: 2 hours 10 minutes.",
+      "Grammar & Composition 9–10 is included as per the pairing scheme."
+     ],
+     "name": "English",
+     "objective": 19,
+     "pairing": "Question 1: 19 Multiple Choice Questions.  Question 2: short answers from textbook exercises.  Question 3: translation (Units 1, 2, 4, 6, 9).  Question 4: poem summary / stanza explanation.  Question 5: use words in sentences.  Question 6: letter / story / dialogue.  Question 7: unseen passage.  Question 8: translation into English.  Question 9: change of voice.",
+     "subjective": 56,
+     "summary": "3 units out of 11 are deleted. Study the remaining 8 units only.",
+     "time": "2 hours 30 min",
+     "totalMarks": 75
+    },
+    {
+     "color": "#004D40",
+     "deleted": [
+      "حصہ نثر: ابتدائی حساب — از ابن انشا — صفحہ 69 تا 76",
+      "حصہ نثر: بھیڑیا — از فاروق سرور — صفحہ 86 تا 93",
+      "حصہ نظم: کرکٹ اور مشاعرہ — از دلاور فگار — صفحہ 111 تا 117",
+      "حصہ غزل: حُسن تو سہی جہاں میں ہے تیرا فسانہ کیا — از خواجہ حیدر علی آتش — صفحہ 122 تا 126"
+     ],
+     "icon": "✒️",
+     "id": "urdu9",
+     "instructions": [
+      "مصنفین اور شعرا کے تعارف میں سے بورڈ کے امتحان میں کسی قسم کا سوال نہیں پوچھا جائے گا۔",
+      "امتحانی بورڈ کے پرچہ مرتبین کے لیے لازم ہے کہ سوالیہ پرچہ ترتیب دیتے ہوئے درج بالا اسباق میں سے معروضی، انشائی و دیگر نوعیت کے سوالات میں سے کوئی سوال یا جز شامل نہ کریں۔"
+     ],
+     "lang": "ur",
+     "name": "اردو",
+     "objective": 15,
+     "pairing": "پرچہ 75 نمبروں پر مشتمل ہوگا۔ معروضی طرز 15 نمبر (20 منٹ)، انشائی طرز 60 نمبر (2:10 گھنٹے)۔ سوال 1: Multiple Choice Questions 15 (10 درسی کتاب + 5 قواعد)۔ سوال 2: اشعار کی تشریح 10۔ سوال 3: پیراگراف کی تشریح 10۔ سوال 4: مختصر سوالات 10۔ سوال 5: نثری سبق کا خلاصہ 5۔ سوال 6: نظم کا خلاصہ یا مرکزی خیال 5۔ سوال 7: درخواست / خط 10۔ سوال 8: کہانی / مکالمہ 5۔ سوال 9: درستی / تکمیل 5۔",
+     "subjective": 60,
+     "summary": "اُردو لازمی برائے جماعت نہم کی درسی کتاب میں سے طلبہ کی سہولت کے پیش نظر چار اسباق حذف کیے جا رہے ہیں تا کہ طلبہ انیس کے بجائے پندرہ اسباق پر توجہ مرکوز کرتے ہوئے بھر پور تیاری کر سکیں۔",
+     "time": "2 hours 30 min",
+     "totalMarks": 75
+    },
+    {
+     "color": "#00695C",
+     "deleted": [
+      "باب اوّل: احادیثِ مبارکہ نمبر 3، 6، 7، 12 اور 14",
+      "باب چہارم: اخلاص و تقویٰ؛ پردہ پوشی؛ جھوٹ؛ غیبت و بہتان؛ جادو، فال اور توہم پرستی",
+      "باب پنجم: قسم کے احکام و مسائل؛ اسلامی ریاست",
+      "باب ششم: صحابہ کرام: حضرت عمرو بن اُمیہؓ، حضرت عبداللہ بن عمرو بن العاصؓ، حضرت جابر بن عبداللہؓ؛ صحابیات: حضرت شفاؓ، حضرت اُمِ سلیمؓ، حضرت اُمِ عطیہؓ؛ صوفیہ کرام: حضرت ابوالقاسم قشیریؒ، شیخ فرید الدین عطارؒ، حضرت مولانا عبدالرحمن جامیؒ؛ علما و مفکرین: امام شاطبیؒ، امام جلال الدین سیوطیؒ، ابنِ رشدؒ",
+      "باب ہفتم: مکمل حذف — خود اعتمادی و خود انحصاری؛ جسمانی و ذہنی صحت اور جسمانی ریاضت؛ اسلام میں مستقبل کی منصوبہ بندی کی اہمیت؛ اسلامی تہذیب کے امتیازات"
+     ],
+     "icon": "☪️",
+     "id": "isl9",
+     "instructions": [
+      "امتحانی بورڈ کے پرچہ مرتبین کے لیے لازم ہے کہ سوالیہ پرچہ ترتیب دیتے ہوئے درج بالا باب/عنوانات میں معروضی، انشائی و دیگر نوعیت کے سوالات میں سے کوئی سوال یا جز شامل نہ کریں۔",
+      "احادیث کا ترجمہ صرف باب اوّل میں دی گئی پندرہ منتخب شدہ احادیث میں سے ہی پوچھا جائے۔"
+     ],
+     "lang": "ur",
+     "name": "اسلامیات",
+     "objective": 20,
+     "pairing": "پرچہ 100 نمبروں پر مشتمل ہوگا، وقت 3 گھنٹے۔ حصہ اوّل: Multiple Choice Questions 20۔ حصہ دوم: مختصر سوالات 40۔ حصہ سوم: (i) ترجمہ احادیثِ مبارکہ 10، (ii) مشاہیر پر مختصر نوٹ 10، (iii) تفصیلی سوالات 20۔ سوال 1: Multiple Choice Questions 20 — باب اوّل، چہارم، پنجم اور ششم میں سے تین تین، باب دوم اور سوم میں سے چار چار۔ سوال 2: مختصر سوالات 12 — صرف باب اوّل اور دوم سے (ہر باب سے چار سوال اور اسماء الحسنیٰ میں سے ایک)۔ سوال 3: مختصر سوالات 12 — باب سوم سے باب چہارم تک۔ سوال 4: مختصر سوالات 16 — باب پنجم اور ششم سے۔ سوال 5: احادیث کا ترجمہ 10 — باب اوّل کی پندرہ منتخب شدہ احادیث میں سے چار دی جائیں، دو کا ترجمہ پوچھا جائے۔",
+     "subjective": 80,
+     "summary": "اسلامیات لازمی جماعت نہم کی ٹیکسٹ بک میں سے طلبہ کی سہولت کے پیشِ نظر درج ذیل احادیثِ مبارکہ اور اسباق حذف کیے جا رہے ہیں تا کہ طلبہ بقیہ تمام اسباق پر توجہ مرکوز کرتے ہوئے بھرپور تیاری کر سکیں۔ اساتذہ کرام ان اسباق سے صرفِ نظر برتیں۔",
+     "time": "3 hours",
+     "totalMarks": 100
+    },
+    {
+     "color": "#37474F",
+     "deleted": [
+      "Unit 1 Introduction to Computational Systems: Number Systems and Conversions, Data Representation in Computer Systems, Binary Arithmetic Operations (pages 8–16) — Ex: MCQ (8) (page 23); Short Questions 7, 10, 11; Long Questions 5–6 (page 24)",
+      "Unit 2 System Design and Troubleshooting — COMPLETE UNIT EXCLUDED",
+      "Unit 4 Computational Thinking: Introduction to LARP (pages 83–85), Error identification and debugging (pages 85–86) — Ex: Long Question 5 (page 90)",
+      "Unit 5 Web Development with HTML, CSS and JavaScript: Styling with CSS (pages 101–107), Introduction to JavaScript (pages 107–110) — Ex: MCQs 2, 4, 5; Short Questions 4, 5, 7, 9; Long Questions 4, 5 (pages 112, 113)",
+      "Unit 8 Ethical, Social and Legal Concerns in Computer Usage: Intellectual Property Rights (pages 142–144) — Ex: Short Questions 7, 8 (page 146); Long Question 3 (page 147)",
+      "Excluded Practicals (Computer Science & Entrepreneurship Grade-9, Practicals 10–13): Design a webpage that contains ordered and unordered lists, a table with rows and columns, and apply styles to HTML elements such as fonts, colors and background using CSS; Create a styled webpage by linking an external CSS file to HTML and applying formatting rules for headings, paragraphs and page background; Handle user input on a webpage by creating a text box and button in HTML and writing JavaScript code to display the entered text using an event; Create a webpage that accepts two numbers as input, and use JavaScript variables and operators to calculate and display their sum when a button is clicked."
+     ],
+     "deletedUr": [
+      "یونٹ 1 Introduction to Computational Systems: نمبرنگ سسٹم (Numbering System)؛ کمپیوٹنگ سسٹم میں ڈیٹا کو ظاہر کرنا؛ بائنری ارتھمیٹک آپریشنز (صفحات 8 تا 16) — مشق: کثیر الانتخابی سوال 8 (صفحہ 23)؛ مختصر سوالات 7، 10، 11؛ طویل سوالات 5 تا 6 (صفحہ 24)",
+      "یونٹ 2 System Design and Troubleshooting — مکمل یونٹ خارج ہے",
+      "یونٹ 4 کمپیوٹیشنل تھنکنگ: لاجک آف الگورتھم فار ریزولوشن آف پرابلمز (LARP) کا تعارف (صفحات 83 تا 85)؛ غلطی کی شناخت اور ڈیبگنگ (صفحات 85 تا 86) — مشق: طویل سوال 5 (صفحہ 90)",
+      "یونٹ 5 HTML، CSS اور جاوا اسکرپٹ کے ساتھ ویب ڈویلپمنٹ: CSS کے ساتھ اسٹائلنگ (صفحات 101 تا 107)؛ جاوا اسکرپٹ کا تعارف (صفحات 107 تا 110) — مشق: کثیر الانتخابی سوالات 2، 4، 5؛ مختصر سوالات 4، 5، 7، 9؛ طویل سوالات 4، 5 (صفحات 112، 113)",
+      "یونٹ 8 کمپیوٹر کے استعمال میں اخلاقی، سماجی اور قانونی خدشات: دانشورانہ املاک کے حقوق (صفحات 142 تا 144) — مشق: مختصر سوالات 7، 8 (صفحہ 146)؛ طویل سوال 3 (صفحہ 147)",
+      "خارج شدہ عملی کام (کمپیوٹر سائنس و کاروباریت جماعت نہم، عملی کام 10 تا 13): ایسا ویب صفحہ ڈیزائن کریں جس میں ترتیب شدہ اور غیر ترتیب شدہ فہرستیں، قطاروں اور کالموں والی جدول ہو اور HTML عناصر جیسے فونٹس، رنگ اور پس منظر پر CSS سے سٹائل لگائیں؛ بیرونی CSS فائل کو HTML سے منسلک کر کے سٹائل والا ویب صفحہ بنائیں اور سرخیوں، پیرا گراف اور صفحے کے پس منظر پر فارمیٹنگ کے قواعد لگائیں؛ HTML میں ٹیکسٹ باکس اور بٹن بنا کر ویب صفحے پر صارف کا ان پٹ سنبھالیں اور ایونٹ کے ذریعے JavaScript کوڈ لکھ کر درج شدہ متن دکھائیں؛ ایسا ویب صفحہ بنائیں جو دو اعداد ان پٹ کے طور پر لے اور بٹن کلک کرنے پر JavaScript متغیرات اور آپریٹرز استعمال کر کے ان کا مجموعہ حساب کر کے دکھائے۔"
+     ],
+     "icon": "💻",
+     "id": "cs9",
+     "instructions": [
+      "No question should be evaluated from excluded topics in any section, including Unit Summary, content-based questions, exercises, MCQs, short questions and essay type (long) questions.",
+      "The paper for Computer Science & Entrepreneurship-9 will consist of 50 marks. The duration for the Multiple-Choice Questions (MCQs) section will be 15 minutes, while the time allocated for the short and long questions section will be 1 hour and 45 minutes."
+     ],
+     "instructionsUr": [
+      "خارج شدہ مواد سے کوئی معروضی، انشائی یا دیگر سوال نہیں بنایا جائے گا، بشمول یونٹ کا خلاصہ، مواد پر مبنی سوالات، مشقیں، کثیر الانتخابی سوالات، مختصر سوالات اور طویل سوالات۔",
+      "کمپیوٹر سائنس و کاروباریت 9 کا پرچہ 50 نمبروں پر مشتمل ہوگا۔ کثیر الانتخابی سوالات کے حصے کی مدت 15 منٹ ہوگی، جبکہ مختصر اور طویل سوالات کے حصے کے لیے 1 گھنٹہ 45 منٹ کا وقت دیا جائے گا۔"
+     ],
+     "name": "Computer Science & Entrepreneurship",
+     "nameUr": "کمپیوٹر سائنس و کاروباریت",
+     "objective": 10,
+     "pairing": "Question 1: 10 Multiple Choice Questions — 1 each from Chapters 1, 3, 4, 6, 7 and 9; 2 each from Chapters 5 and 8.  Question 2: 4 short out of 6 (2 from Chapter 1, 4 from Chapter 4).  Question 3: 4 short out of 6 (1 from Chapter 3, 2 from Chapter 5, 3 from Chapter 7).  Question 4: 4 short out of 6 (2 from Chapter 6, 3 from Chapter 8, 1 from Chapter 9).  Question 5–Question 7: attempt 2 long questions, 8 marks each (Q5 from Chapter 1, Q6 from Chapter 3, Q7 from Chapter 6 or 9).",
+     "pairingUr": "سوال نمبر 1: 10 کثیر الانتخابی سوالات — باب 1، 3، 4، 6، 7 اور 9 میں سے ہر ایک سے 1؛ باب 5 اور 8 میں سے ہر ایک سے 2۔ سوال نمبر 2: 6 میں سے 4 مختصر سوالات (باب 1 سے 2، باب 4 سے 4)۔ سوال نمبر 3: 6 میں سے 4 مختصر سوالات (باب 3 سے 1، باب 5 سے 2، باب 7 سے 3)۔ سوال نمبر 4: 6 میں سے 4 مختصر سوالات (باب 6 سے 2، باب 8 سے 3، باب 9 سے 1)۔ سوال نمبر 5 تا سوال نمبر 7: 2 طویل سوالات حل کریں، ہر ایک 8 نمبر (سوال 5 باب 1 سے، سوال 6 باب 3 سے، سوال 7 باب 6 یا 9 سے)۔",
+     "subjective": 40,
+     "summary": "50 marks paper (10 Multiple Choice Questions + 40 subjective). Exclusions listed unit-wise for Units 1, 2, 4, 5 and 8; Units 3, 6, 7 and 9 are fully retained.",
+     "summaryUr": "50 نمبروں کا پرچہ (10 کثیر الانتخابی سوالات + 40 انشائی)۔ حذف شدہ مواد یونٹس 1، 2، 4، 5 اور 8 کے لیے یونٹ وار درج ہے؛ یونٹس 3، 6، 7 اور 9 مکمل برقرار ہیں۔",
+     "time": "2 hours",
+     "totalMarks": 50
+    },
+    {
+     "color": "#795548",
+     "deleted": [
+      "Chapter 1 Introduction and Role of Science: 1.5 Role of Science and Technology in our life (page 9) — Ex: Q# 9",
+      "Chapter 3 Biochemistry and Biotechnology: 3.2 Enzyme (pages 30–31) — Ex: Q# 7",
+      "Chapter 4 Human Health: 4.2 Balanced Diet (pages 44–45) — Ex: Q# 8",
+      "Chapter 5 Diseases – Cause and Prevention: Whooping Cough (pages 57–58), Diphtheria, 5.4 Mental Diseases (pages 66–68) — Ex: Q# 8",
+      "Chapter 6 Environment and Natural Resources: 6.3 Minerals and Fossil Fuels (pages 80–81) — Ex: Q# 9, Q# 3 (iv); 6.7 Effects of Rising Population on Environment (pages 85–87) — Ex: Q# 12"
+     ],
+     "icon": "🌍",
+     "id": "gsci9",
+     "instructions": [
+      "The paper of General Science for Grade-9 will consist of 50 marks. Duration of the paper will be 2 hours (Objective Type = 20 minutes + Subjective Type = 1:40 hours).",
+      "Objective Type = 12 marks + Subjective Type = 38 marks."
+     ],
+     "name": "General Science",
+     "objective": 12,
+     "pairing": "Question 1: 12 Multiple Choice Questions — 2 from each of Chapters 1–6.  Question 2: 4 short out of 6 (3 marks each) — 2 each from Chapters 1, 2 and 3.  Question 3: 4 short out of 6 (3 marks each) — 2 each from Chapters 4, 5 and 6.  Question 4–Question 6: attempt 2 detailed questions, 7 marks each (in two parts a & b, 4 & 3 marks) — Q4 (a) Chapter 1, (b) Chapter 2; Q5 (a) Chapter 3, (b) Chapter 4; Q6 (a) Chapter 5, (b) Chapter 6.",
+     "subjective": 38,
+     "summary": "Deleted topics are listed chapter-wise for Chapters 1, 3, 4, 5 and 6; Chapter 2 is fully retained.",
+     "time": "2 hours",
+     "totalMarks": 50
+    }
+   ],
+   "subtitle": "Grade 9  •  SSC Part I",
+   "title": "Class 9"
+  },
+  {
+   "color": "#1565C0",
+   "exam": "BISE Annual Exam 2027",
+   "icon": "10",
+   "id": "10",
+   "status": "OFFICIAL — Notified 14 Nov 2026",
+   "statusType": "official",
+   "subjects": [
+    {
+     "color": "#C62828",
+     "deleted": [
+      "Unit 4 The Earth: Act Now for Tomorrow (pages 38–47) — DELETED",
+      "Unit 7 Time (Poem) (pages 72–79) — DELETED",
+      "Unit 10 The Three Questions (pages 103–113) — DELETED"
+     ],
+     "icon": "📖",
+     "id": "eng10",
+     "instructions": [
+      "No objective, subjective or other question will be set from Units 4, 7 and 10.",
+      "The paper of English for Grade-10 will consist of 75 marks; Objective Type = 19 & Subjective Type = 56.",
+      "Timing of the paper will be 2:30 hours; Objective Type = 20 minutes & Subjective Type = 2:10 hours.",
+      "Unit 7 Time (Poem) will not be included in Question 4."
+     ],
+     "name": "English",
+     "objective": 19,
+     "pairing": "Question 1: 19 Multiple Choice Questions from Units 1, 2, 3, 5, 6, 8, 9 and English Grammar and Composition 9-10 — (a) correct forms of verbs 5, (b) correct spellings 4, (c) meanings of underlined words 5, (d) grammar 5.  Question 2: short answers, any 5 out of 8 (10 marks).  Question 3: translate any one paragraph into Urdu / rewrite in simple English (8 marks).  Question 4: summary of the poem or explain the stanza with reference to the context (5 marks; Unit 7 Time (Poem) not included).  Question 5: essay of 150–200 words or paragraph of 100–150 words (15 marks).  Question 6: change any 5 out of 8 sentences into indirect forms (5 marks).  Question 7: use any 5 out of 8 pairs of words in your own sentences (5 marks).  Question 8: translate the paragraph from Urdu into English (8 marks; English-medium candidates write a paragraph of 10 sentences instead).",
+     "subjective": 56,
+     "summary": "3 units out of 10 are deleted (Units 4, 7 and 10). Study the remaining 7 units only.",
+     "time": "2 hours 30 min",
+     "totalMarks": 75
+    },
+    {
+     "color": "#004D40",
+     "deleted": [
+      "⏳ Coming soon — this subject was not in the 14.11.2026 notification."
+     ],
+     "icon": "✒️",
+     "id": "urdu10",
+     "instructions": [
+      "Check pectaa.edu.pk for the official notification."
+     ],
+     "name": "Urdu",
+     "objective": 0,
+     "pairing": "Coming soon.",
+     "subjective": 0,
+     "summary": "Coming soon — not included in Notification No. PECTAA/C&C Unit/2026/1257 (14.11.2026).",
+     "time": "To be announced",
+     "totalMarks": 75
+    },
+    {
+     "color": "#00695C",
+     "deleted": [
+      "⏳ Coming soon — this subject was not in the 14.11.2026 notification."
+     ],
+     "icon": "☪️",
+     "id": "isl10",
+     "instructions": [
+      "Check pectaa.edu.pk for the official notification."
+     ],
+     "name": "Islamiyat",
+     "objective": 0,
+     "pairing": "Coming soon.",
+     "subjective": 0,
+     "summary": "Coming soon — not included in Notification No. PECTAA/C&C Unit/2026/1257 (14.11.2026).",
+     "time": "To be announced",
+     "totalMarks": 100
+    },
+    {
+     "color": "#0B6B3A",
+     "deleted": [
+      "⏳ Coming soon — this subject was not in the 14.11.2026 notification."
+     ],
+     "icon": "🇵🇰",
+     "id": "pak10",
+     "instructions": [
+      "Check pectaa.edu.pk for the official notification."
+     ],
+     "name": "Pakistan Studies",
+     "objective": 0,
+     "pairing": "Coming soon.",
+     "subjective": 0,
+     "summary": "Coming soon — not included in Notification No. PECTAA/C&C Unit/2026/1257 (14.11.2026).",
+     "time": "To be announced",
+     "totalMarks": 50
+    },
+    {
+     "color": "#6A1B9A",
+     "deleted": [
+      "Unit 1 Complex Numbers: 1.3.3 Properties of Complex Conjugate (Properties 1 to 4 with proofs), Examples 11 to 14 (pages 11–13); 1.4.1 Properties of Modulus of a Complex Number (Properties 1 to 3 with proofs), Examples 15 & 16 (pages 14–16); Exercise 1.3: Q 2, 3 & 4 (page 16); 1.6 Solution of Simultaneous Linear Equations with Complex Coefficients, Example 21 (page 19); Exercise 1.4: Q 2 (Complete) (page 20); Review Exercise 1: Q 5 & 8 (page 21)",
+      "Unit 2 Quadratic Equations and Inequalities: 2.1.1 (d) Solution of quadratic equation by graphs, Example 5 (pages 27–28); Exercise 2.1: Q 5 (page 29); 2.2.3 Finding Points of Intersection of a Linear Function and a Quadratic Function Graphically, Example 8 (page 31); Exercise 2.2: Q 3 (page 32); Examples 12 & 13 (pages 35–36); Exercise 2.3: Q 4, 8 & 9 (page 36); 2.5 Solution of Quadratic Inequalities in One Unknown, Examples 16 & 17 (pages 39–41); Exercise 2.5 (Complete) (page 41); 2.7 Applications of Quadratic Equation in Real World, Examples 19 to 21 (pages 43–45); Exercise 2.7 (Complete) (page 45)",
+      "Unit 3 Matrices and Determinants: 3.4.2 Associative Law of Multiplication of Matrices and 3.4.3 Distributive Laws of Multiplication over Addition and Subtraction (pages 62–64); Exercise 3.4: Q 2 (ii, iii & v) (page 65); Challenge ((AB)−1 = B−1A−1) (page 67); Exercise 3.5: Q 8 (page 70); 3.7 Applications of Matrices in Real World Problems, Examples 12 & 13 (pages 75–77); 3.8 The Role of Mathematics in Scientific Theories and Technological Advancement (page 77); Exercise 3.6: Q 3 to 9 (pages 78–79); Review Exercise 3: Q 3 (iii, iv, v & viii), Q 6, 7 & 8 (page 80)",
+      "Unit 4 Functions and Graphs: 4.5 Solving Real life Problems Involving Function, Examples 15, 16 (pages 92, 93); 4.6 Solving Real life Problems Involving absolute Valued Function, Examples 17 to 18 (page 93); Exercise 4.3 (Complete) (page 94); Review Exercise 4: Q 9 to 11 (page 96)",
+      "Unit 5 Algebraic Fractions: 5.3 Type (ii) Exponential Equations, Type (iii) Reciprocal Equations and Type (iv) (x + a)(x + b)(x + c)(x + d) = k, Examples 11 to 13 (pages 103–106); Exercise 5.4: Q 1 (iv to xii) (pages 106–107); 5.4 Real World Problems, Examples 14 & 15 (pages 107–108); Exercise 5.5 (Complete) (pages 108–109); Review Exercise 5: Q 1 (vii, viii), Q 4 (iii to vii), Q 5, 6 & 7 (page 110)",
+      "Unit 6 Vectors in Plane: 6.6 Translation by vector, Example 9 (pages 119–120); 6.7 Solution and Application of Geometric Problems Involving Vectors, Examples 10 to 13 (pages 120–122); Exercise 6.3 (Complete) (pages 122–123); Review Exercise 6: Q 1 (vii), Q 6, 7, 8, 9 & 10 (page 124)",
+      "Unit 7 Trigonometry: 7.3 Solve Simple Trigonometric Problems in Three Dimensions, Examples 8 & 9 (pages 134–135); Exercise 7.3: Q 1 to 5 (pages 136–137); 7.5 Three Figure Bearing, Examples 12, 13 & 14 (pages 138–139); Exercise 7.4 (Complete) (pages 139, 140); Review Exercise 7: Q 1 (ix, x), Q 4, 5, 6 & 7 (page 142)",
+      "Unit 8 Chords and Arcs of a Circle: 8.1.6 to 8.1.9 Theorems on Congruent Arcs, Chords and Central Angles, Examples 8 to 11 (pages 151–152); Exercise 8.2 (Complete) (page 153); Review Exercise 8: Q 4 to 8 (page 154)",
+      "Unit 9 Tangent and Angles of a Circle: Exercise 9.1: Q 4, 5, 9 & 10 (page 160); Exercise 9.2: Q 4, 5, 6 & 7 (page 165); Review Exercise 9: Q 4, 5, 6 & 7 (pages 166–167)",
+      "Unit 10 Practical Geometry of Circles: 10.1.4 Complete a Circle without Finding its Centre when a part of its circumference (Arc) is given (pages 170–171); Exercise 10.1: Q 4 & 7 (page 171); Exercise 10.2: Q 1, 2, 3 & 4 (page 174); Review Exercise 10: Q 5 & 6 (page 175)",
+      "Unit 11 Information Handling: 11.1.1 Cumulative Frequency Polygon or Ogive and 11.1.2 Steps for Construction of Ogive (page 178); Examples 2 & 3 (pages 179–181); Exercise 11.1: Q 1, 2, 3, 5, 8 & 9 (pages 186–187); Variance and Standard Deviation for Grouped Data, Example 11 (page 191); Exercise 11.2: Q 6, 7 & 10 and Q 13 (ii & iii) (pages 193–194); Review Exercise 11: Q 2, 4, 6 & 9 (pages 194–195)",
+      "Unit 12 Probability: 12.2 (i) Addition Law for Non-Mutually Exclusive Events, Examples 8 & 10 (pages 205–207); Exercise 12.2: Q 1, 2, 7, 9, 13 & 14 (pages 207–208); 12.3 Multiplication Law of Probability (Independent Events, Dependent Events and Conditional Probability), Examples 11 to 13 (pages 208–209); Exercise 12.3 (Complete) (page 210); Review Exercise 12: Q 3, 4, 5 & 6 (page 211)"
+     ],
+     "deletedUr": [
+      "یونٹ 1 کمپلیکس اعداد: 1.3.3 کمپلیکس کانجوگیٹ کی خصوصیات (خصوصیات 1 تا 4 بمع ثبوت)، مثالیں 11 تا 14 (صفحات 11–13)؛ 1.4.1 کمپلیکس عدد کے ماڈیولس کی خصوصیات (خصوصیات 1 تا 3 بمع ثبوت)، مثالیں 15 اور 16 (صفحات 14–16)؛ مشق 1.3: سوال 2، 3 اور 4 (صفحہ 16)؛ 1.6 کمپلیکس عددی سروں کے ساتھ یک درجی ہمزاد مساواتوں کا حل، مثال 21 (صفحہ 19)؛ مشق 1.4: سوال 2 (مکمل) (صفحہ 20)؛ اعادتی مشق 1: سوال 5 اور 8 (صفحہ 21)",
+      "یونٹ 2 دو درجی مساواتیں اور غیر مساواتیں: 2.1.1 (d) دو درجی مساوات کا حل بذریعہ گراف، مثال 5 (صفحات 27–28)؛ مشق 2.1: سوال 5 (صفحہ 29)؛ 2.2.3 ایک درجی تقابل اور دو درجی تقابل کے تقاطع کے نقاط بذریعہ گراف معلوم کرنا، مثال 8 (صفحہ 31)؛ مشق 2.2: سوال 3 (صفحہ 32)؛ مثالیں 12 اور 13 (صفحات 35–36)؛ مشق 2.3: سوال 4، 8 اور 9 (صفحہ 36)؛ 2.5 ایک متغیر میں دو درجی غیر مساوات کا حل، مثالیں 16 اور 17 (صفحات 39–41)؛ مشق 2.5 (مکمل) (صفحہ 41)؛ 2.7 حقیقی دنیا میں دو درجی مساوات کا اطلاق، مثالیں 19 تا 21 (صفحات 43–45)؛ مشق 2.7 (مکمل) (صفحہ 45)",
+      "یونٹ 3 قالب اور قالبوں کا مقطع: 3.4.2 قالبوں کا قانون تلازم بلحاظ ضرب اور 3.4.3 ضرب کا قانون تقسیمی بلحاظ جمع اور تفریق (صفحات 62–64)؛ مشق 3.4: سوال 2 (ii, iii اور v) (صفحہ 65)؛ چیلنج ((AB)⁻¹ = B⁻¹A⁻¹) (صفحہ 67)؛ مشق 3.5: سوال 8 (صفحہ 70)؛ 3.7 حقیقی دنیا میں قالبوں کا اطلاق، مثالیں 12 اور 13 (صفحات 75–77)؛ 3.8 سائنسی نظریات اور تکنیکی ترقی میں ریاضی کا کردار (صفحہ 77)؛ مشق 3.6: سوال 3 تا 9 (صفحات 78–79)؛ اعادتی مشق 3: سوال 3 (iii, iv, v اور viii)، سوال 6، 7 اور 8 (صفحہ 80)",
+      "یونٹ 4 تقابل اور گراف: 4.5 تقابل پر مشتمل حقیقی زندگی کے مسائل کو حل کرنا، مثالیں 15، 16 (صفحات 92، 93)؛ 4.6 مطلق قدر والے تقابل پر مشتمل حقیقی زندگی کے مسائل کو حل کرنا، مثالیں 17 تا 18 (صفحہ 93)؛ مشق 4.3 (مکمل) (صفحہ 94)؛ اعادتی مشق 4: سوال 9 تا 11 (صفحہ 96)",
+      "یونٹ 5 الجبری کسور: 5.3 قسم (ii) قوت نمائی مساوات، قسم (iii) معکوس مساوات اور قسم (iv) (x + a)(x + b)(x + c)(x + d) = k، مثالیں 11 تا 13 (صفحات 103–106)؛ مشق 5.4: سوال 1 (iv تا xii) (صفحات 106–107)؛ 5.4 حقیقی دنیا کے مسائل، مثالیں 14 اور 15 (صفحات 107–108)؛ مشق 5.5 (مکمل) (صفحات 108–109)؛ اعادتی مشق 5: سوال 1 (vii, viii)، سوال 4 (iii تا vii)، سوال 5، 6 اور 7 (صفحہ 110)",
+      "یونٹ 6 مستوی میں ویکٹرز: 6.6 ویکٹر کی ٹرانسلیشن، مثال 9 (صفحات 119–120)؛ 6.7 ویکٹر پر مشتمل جیومیٹرک مسائل کا حل اور اطلاق، مثالیں 10 تا 13 (صفحات 120–122)؛ مشق 6.3 (مکمل) (صفحات 122–123)؛ اعادتی مشق 6: سوال 1 (vii)، سوال 6، 7، 8، 9 اور 10 (صفحہ 124)",
+      "یونٹ 7 تکونیات: 7.3 سہ رخی میں سادہ تکونیاتی مسائل حل کرنا، مثالیں 8 اور 9 (صفحات 134–135)؛ مشق 7.3: سوال 1 تا 5 (صفحات 136–137)؛ 7.5 سہ ہندسی بیئرنگ اور اس کا اطلاق، مثالیں 12، 13 اور 14 (صفحات 138–139)؛ مشق 7.4 (مکمل) (صفحات 139، 140)؛ اعادتی مشق 7: سوال 1 (ix, x)، سوال 4، 5، 6 اور 7 (صفحہ 142)",
+      "یونٹ 8 دائرہ کے وتر اور قوس: 8.1.6 تا 8.1.9 متماثل قوسوں، وتروں اور مرکزی زاویوں پر قضیے، مثالیں 8 تا 11 (صفحات 151–152)؛ مشق 8.2 (مکمل) (صفحہ 153)؛ اعادتی مشق 8: سوال 4 تا 8 (صفحہ 154)",
+      "یونٹ 9 دائرہ کا مماس اور زاویے: مشق 9.1: سوال 4، 5، 9 اور 10 (صفحہ 160)؛ مشق 9.2: سوال 4، 5، 6 اور 7 (صفحہ 165)؛ اعادتی مشق 9: سوال 4، 5، 6 اور 7 (صفحات 166–167)",
+      "یونٹ 10 دائروں کی عملی جیومیٹری: 10.1.4 مرکز معلوم کیے بغیر دائرہ مکمل کرنا، جب اس کے محیط کا ایک حصہ (قوس) دیا گیا ہو (صفحات 170–171)؛ مشق 10.1: سوال 4 اور 7 (صفحہ 171)؛ مشق 10.2: سوال 1، 2، 3 اور 4 (صفحہ 174)؛ اعادتی مشق 10: سوال 5 اور 6 (صفحہ 175)",
+      "یونٹ 11 معلوماتی معالجہ: 11.1.1 مجموعی تعددی کثیر الاضلاع یا اوجائیو اور 11.1.2 مجموعی تعددی کثیر الاضلاع یا اوجائیو کی تشکیل کے مراحل (صفحہ 178)؛ مثالیں 2 اور 3 (صفحات 179–181)؛ مشق 11.1: سوال 1، 2، 3، 5، 8 اور 9 (صفحات 186–187)؛ گروہی مواد کے لیے تغیر قیمت اور معیاری انحراف، مثال 11 (صفحہ 191)؛ مشق 11.2: سوال 6، 7 اور 10 اور سوال 13 (ii اور iii) (صفحات 193–194)؛ اعادتی مشق 11: سوال 2، 4، 6 اور 9 (صفحات 194–195)",
+      "یونٹ 12 احتمال: 12.2 (i) غیر باہمی متماثل واقعات کے لیے احتمال کا قانون جمع، مثالیں 8 اور 10 (صفحات 205–207)؛ مشق 12.2: سوال 1، 2، 7، 9، 13 اور 14 (صفحات 207–208)؛ 12.3 احتمال کا قانون ضرب (آزاد واقعات، منحصر واقعات اور مشروط احتمال)، مثالیں 11 تا 13 (صفحات 208–209)؛ مشق 12.3 (مکمل) (صفحہ 210)؛ اعادتی مشق 12: سوال 3، 4، 5 اور 6 (صفحہ 211)"
+     ],
+     "icon": "➗",
+     "id": "math10",
+     "instructions": [
+      "The paper of Mathematics for Grade-10 will consist of 75 marks.",
+      "Objective Type = 15 marks & Subjective Type = 60 marks.",
+      "Timing of the paper will be 2:30 hours; Objective Type = 20 minutes + Subjective Type = 2:10 hours."
+     ],
+     "instructionsUr": [
+      "دہم جماعت کے ریاضی کے پرچے کے کل 75 نمبر ہوں گے۔",
+      "معروضی حصہ = 15 نمبر اور انشائی حصہ = 60 نمبر۔",
+      "پرچے کا وقت 2:30 گھنٹے ہوگا؛ معروضی حصہ = 20 منٹ + انشائی حصہ = 2:10 گھنٹے۔"
+     ],
+     "name": "Mathematics",
+     "nameUr": "ریاضی",
+     "objective": 15,
+     "pairing": "Question 1: 15 Multiple Choice Questions — 1 each from Chapters 1, 2, 3, 4, 5, 6, 7, 8 and 10; 2 each from Chapters 9, 11 and 12.  Question 2–Question 4: attempt 6 out of 9 short questions each (12 marks each) — Q2 from Chapters 1–4, Q3 from Chapters 5–8, Q4 from Chapters 9–12.  Question 5–Question 7: attempt 2 long questions, 8 marks each (in two parts a & b, 4 marks each) — Q5 (a) Chapter 1, (b) Chapter 2; Q6 (a) Chapter 3, (b) Chapter 4; Q7 (a) Chapter 5, (b) Chapter 7.  Question 8–Question 9: attempt 1 long question, 8 marks (in two parts a & b, 4 marks each) — Q8 (a) Chapter 6, (b) Chapter 8 or 11; Q9 (a) Chapter 10, (b) Chapter 9 or 12.",
+     "pairingUr": "سوال 1: 15 کثیر الانتخابی سوالات — ابواب 1، 2، 3، 4، 5، 6، 7، 8 اور 10 میں سے ہر ایک سے 1؛ ابواب 9، 11 اور 12 میں سے ہر ایک سے 2۔ سوال 2 تا سوال 4: ہر ایک میں 9 میں سے 6 مختصر سوالات حل کریں (ہر ایک 12 نمبر) — سوال 2 ابواب 1 تا 4 سے، سوال 3 ابواب 5 تا 8 سے، سوال 4 ابواب 9 تا 12 سے۔ سوال 5 تا سوال 7: 2 طویل سوالات حل کریں، ہر ایک 8 نمبر (دو حصوں الف و ب، ہر ایک 4 نمبر) — سوال 5 (الف) باب 1، (ب) باب 2؛ سوال 6 (الف) باب 3، (ب) باب 4؛ سوال 7 (الف) باب 5، (ب) باب 7۔ سوال 8 تا سوال 9: 1 طویل سوال حل کریں، 8 نمبر (دو حصوں الف و ب، ہر ایک 4 نمبر) — سوال 8 (الف) باب 6، (ب) باب 8 یا 11؛ سوال 9 (الف) باب 10، (ب) باب 9 یا 12۔",
+     "subjective": 60,
+     "summary": "Smart / Reduced Syllabus: every excluded topic, example and question is listed unit-wise for all 12 units.",
+     "summaryUr": "سمارٹ / مختصر نصاب: تمام 12 یونٹس کے لیے ہر خارج شدہ موضوع، مثال اور سوال یونٹ وار درج ہے۔",
+     "time": "2 hours 30 min",
+     "totalMarks": 75
+    },
+    {
+     "color": "#0B6B3A",
+     "deleted": [
+      "Chapter 10 Thermal Physics: 10.2 Specific heat capacity (pages 7–9), 10.4 Evaporation (pages 10–12), 10.6 Superconductivity (pages 15, 16) — Ex: MCQs 10.3, 10.4, 10.5; Short answer question 10.4; CRQs 10.2, 10.3; Comprehensive Question 10.5; Numerical Problems 10.5, 10.6",
+      "Chapter 11 Transfer of Thermal Energy: 11.3 Heat transfer through radiation (pages 25–28) — Ex: MCQs 11.4, 11.5, 11.7; Short answer questions 11.1 (Radiation is excluded), 11.6, 11.7; CRQs 11.1, 11.2, 11.5; Comprehensive Questions 11.2, 11.4",
+      "Chapter 12 Waves: 12.4 Properties of waves (pages 39–41), 12.5 Seismic and Tsunami waves (pages 41–43) — Ex: MCQs 12.6, 12.7, 12.8; Short answer question 12.7; CRQs 12.1, 12.4, 12.5; Comprehensive Questions 12.4, 12.5; Numerical Problems 12.5, 12.6",
+      "Chapter 13 Sound: 13.4 Reflection of sound (Echo) (pages 53, 54), Example 13.2 (page 55), 13.5 Refraction and diffraction of sound (pages 55, 56), 13.7 Acoustic protection of buildings (page 59) — Ex: MCQs 13.2, 13.6; Short answer questions 13.2, 13.4; CRQs 13.3, 13.5, 13.6; Comprehensive Questions 13.4, 13.5; Numerical Problems 13.5, 13.6",
+      "Chapter 14 Light: Refraction through prism (page 69), Total internal reflection (pages 69–72), Example 14.3 (pages 72, 73), 14.3 Optical fiber (pages 73, 74), 14.5 Optical devices (pages 80, 81), 14.7 Gravitational lens and acoustic lens (pages 83, 84), 14.8 Dispersion of light by prism (pages 84, 85) — Ex: MCQs 14.2, 14.3, 14.5, 14.6; Short answer question 14.3; CRQs 14.2, 14.3, 14.4, 14.5; Comprehensive Questions 14.2, 14.3, 14.4; Numerical Problems 14.2, 14.5, 14.6",
+      "Chapter 15 Electrostatics: 15.3 Applications of electrostatics (pages 93–95), 15.6 Conduction of electric charges (pages 98, 99), 15.7 Accumulation of charges (pages 99–101) — Ex: MCQs 15.1, 15.2, 15.5; Short answer questions 15.3, 15.4, 15.6, 15.7; CRQs 15.3, 15.5; Comprehensive Questions 15.4, 15.5; Numerical Problems 15.5, 15.7",
+      "Chapter 16 Electricity: 16.4 Combination of resistances (pages 113, 114), Example 16.2 (pages 114, 115), 16.7 Resistor colour codes (pages 117–119), 16.8 Common use of electricity (page 119), 16.10 Household circuits and safety measures (pages 121–123) — Ex: MCQs 16.6; Short answer question 16.5; CRQs 16.3, 16.4, 16.5; Comprehensive Question 16.4; Numerical Problems 16.2, 16.3",
+      "Chapter 17 Electromagnetism: 17.4 Electric motor (pages 132, 133), 17.5 Use of magnetic effects of current (pages 133–135) — Ex: MCQs 17.2, 17.3; Short answer questions 17.3, 17.5; CRQs 17.2, 17.3",
+      "Chapter 18 Electromagnetic Induction and Electromagnetic Waves: 18.2 A.C. Generator (pages 143, 144), 18.4 Deflection of electron beam in electric and magnetic fields (pages 146, 147), 18.5 Waveform on oscilloscope (pages 147, 148), 18.6 Scattering of light in the atmosphere (page 149) — Ex: MCQs 18.2, 18.3; Short answer questions 18.2, 18.3, 18.4; CRQs 18.3; Comprehensive Questions 18.3, 18.4, 18.5; Numerical Problems 18.2, 18.5",
+      "Chapter 19 Electronics: 19.2 Analog and digital electronics (pages 158, 159), 19.3 Boolean logic (pages 159, 160), 19.5 Applications of logic gates (pages 163, 164) — Ex: MCQs 19.5; Short answer questions 19.5, 19.6, 19.7, 19.8, 19.9; CRQs 19.3, 19.4, 19.5; Comprehensive Questions 19.3, 19.6",
+      "Chapter 20 Atomic and Nuclear Physics: 20.1 Atomic structure (pages 168, 169), 20.2 Atomic Nucleus (pages 169, 170), Example 20.1 (page 170), 20.3 Isotopes (pages 170, 171), 20.5 Radioactive decay (pages 173, 174), Example 20.2 (pages 174, 175), 20.9 Effects and uses of nuclear radiation (pages 181–183) — Ex: MCQs 20.1, 20.2, 20.7, 20.8; Short answer questions 20.1, 20.2, 20.8; CRQs 20.1, 20.3, 20.4; Comprehensive Questions 20.1, 20.3, 20.4; Numerical Problems 20.1, 20.3, 20.4, 20.7",
+      "Chapter 21 Space and Environment: 21.1 Sun and planetary data (pages 187–190) — Ex: MCQs 21.1, 21.2, 21.3, 21.5; Short answer questions 21.1, 21.2, 21.6, 21.7; CRQs 21.1, 21.2, 21.3; Comprehensive Questions 21.1, 21.2, 21.3",
+      "Excluded Practicals (Physics-10): Determine the critical angle of glass using a semicircular slab and a light ray box or a laser light; Trace the path of a ray of light through a glass prism and measure the angle of deviation; Study resistors in a series circuit; Study resistors in a parallel circuit; Set up a burglar alarm using a NAND gate; Make a fire alarm using a NOT gate; Find the specific heat of a given solid by the method of mixture using polystyrene cup (as container of negligible heat capacity); Draw a graph between temperature and time when ice is converted into water and then to steam by slow heating. (Practical paper: 30 marks, 2 hours — one practical from Grade 9 and one from Grade 10, plus Notebook 3 and Viva Voce 3.)"
+     ],
+     "deletedUr": [
+      "باب 10 تھرمل فزکس: 10.2 مخصوص حرارتی گنجائش (صفحات 7–9)، 10.4 اویپوریشن (صفحات 10–12)، 10.6 سپر کنڈکٹیویٹی (صفحات 15، 16) — مشق: کثیر الانتخابی سوالات 10.3، 10.4، 10.5؛ مختصر سوالات 10.4؛ تعمیری جوابی سوالات 10.2، 10.3؛ جامع سوالات 10.5؛ عددی سوالات 10.5، 10.6",
+      "باب 11 انتقالِ تھرمل انرجی: 11.3 ریڈی ایشن کے ذریعے انتقالِ تھرمل انرجی (صفحات 25–28) — مشق: کثیر الانتخابی سوالات 11.4، 11.5، 11.7؛ مختصر سوالات 11.1 (ریڈی ایشن خارج ہے)، 11.6، 11.7؛ تعمیری جوابی سوالات 11.1، 11.2، 11.5؛ جامع سوالات 11.2، 11.4",
+      "باب 12 ویوز: 12.4 ویوز کی خصوصیات (صفحات 39–41)، 12.5 سیسمک اور سونامی ویوز (صفحات 41–43) — مشق: کثیر الانتخابی سوالات 12.6، 12.7، 12.8؛ مختصر سوالات 12.7؛ تعمیری جوابی سوالات 12.1، 12.4، 12.5؛ جامع سوالات 12.4، 12.5؛ عددی سوالات 12.5، 12.6",
+      "باب 13 ساؤنڈ: 13.4 ساؤنڈ کی ریفلیکشن۔ ایکو (صفحات 53، 54)، مثال 13.2 (صفحہ 55)، 13.5 ساؤنڈ کی ریفریکشن اور ڈیفرکشن (صفحات 55، 56)، 13.7 عمارتوں کا صوتی تحفظ (صفحہ 59) — مشق: کثیر الانتخابی سوالات 13.2، 13.6؛ مختصر سوالات 13.2، 13.4؛ تعمیری جوابی سوالات 13.3، 13.5، 13.6؛ جامع سوالات 13.4، 13.5؛ عددی سوالات 13.5، 13.6",
+      "باب 14 روشنی: پرزم کے ذریعے روشنی کی ریفریکشن (صفحہ 69)، ٹوٹل انٹرنل ریفلیکشن (صفحات 69–72)، مثال 14.3 (صفحات 72، 73)، 14.3 آپٹیکل فائبر (صفحات 73، 74)، 14.5 آپٹیکل ڈیوائسز (صفحات 80، 81)، 14.7 گریوی ٹیشنل لینز اور آکوسٹک لینز (صفحات 83، 84)، 14.8 پرزم کے ذریعے روشنی کی ڈسپرشن (صفحات 84، 85) — مشق: کثیر الانتخابی سوالات 14.2، 14.3، 14.5، 14.6؛ مختصر سوالات 14.3؛ تعمیری جوابی سوالات 14.2، 14.3، 14.4، 14.5؛ جامع سوالات 14.2، 14.3، 14.4؛ عددی سوالات 14.2، 14.5، 14.6",
+      "باب 15 الیکٹروسٹیٹکس: 15.3 الیکٹروسٹیٹکس کے اطلاقات (صفحات 93–95)، 15.6 الیکٹرک چارجز کی کنڈکشن (صفحات 98، 99)، 15.7 چارجز کا ارتکاز (صفحات 99–101) — مشق: کثیر الانتخابی سوالات 15.1، 15.2، 15.5؛ مختصر سوالات 15.3، 15.4، 15.6، 15.7؛ تعمیری جوابی سوالات 15.3، 15.5؛ جامع سوالات 15.4، 15.5؛ عددی سوالات 15.5، 15.7",
+      "باب 16 الیکٹریسٹی: 16.4 ریزسٹرز کے کمبی نیشن (صفحات 113، 114)، مثال 16.2 (صفحات 114، 115)، 16.7 ریزسٹر کلر کوڈز (صفحات 117–119)، 16.8 الیکٹرک بجلی کا عام استعمال (صفحہ 119)، 16.10 گھریلو سرکٹس اور حفاظتی اقدامات (صفحات 121–123) — مشق: کثیر الانتخابی سوالات 16.6؛ مختصر سوالات 16.5؛ تعمیری جوابی سوالات 16.3، 16.4، 16.5؛ جامع سوالات 16.4؛ عددی سوالات 16.2، 16.3",
+      "باب 17 الیکٹرومیگنیٹزم: 17.4 الیکٹرک موٹر (صفحات 132، 133)، 17.5 کرنٹ کے میگنیٹک اثرات کا استعمال (صفحات 133–135) — مشق: کثیر الانتخابی سوالات 17.2، 17.3؛ مختصر سوالات 17.3، 17.5؛ تعمیری جوابی سوالات 17.2، 17.3",
+      "باب 18 الیکٹرومیگنیٹک انڈکشن اور الیکٹرومیگنیٹک ویوز: 18.2 اے۔ سی جنریٹر (صفحات 143، 144)، 18.4 الیکٹرک اور میگنیٹک فیلڈز میں الیکٹران بیم کا انحراف (صفحات 146، 147)، 18.5 اوسیلو سکوپ پر ویوفارم (صفحات 147، 148)، 18.6 ایسٹماسفیئر میں روشنی کا بکھرنا (صفحہ 149) — مشق: کثیر الانتخابی سوالات 18.2، 18.3؛ مختصر سوالات 18.2، 18.3، 18.4؛ تعمیری جوابی سوالات 18.3؛ جامع سوالات 18.3، 18.4، 18.5؛ عددی سوالات 18.2، 18.5",
+      "باب 19 الیکٹرانکس: 19.2 اینالاگ اور ڈیجیٹل الیکٹرانکس (صفحات 158، 159)، 19.3 بولین لاجک (صفحات 159، 160)، 19.5 لاجک گیٹس کے استعمالات (صفحات 163، 164) — مشق: کثیر الانتخابی سوالات 19.5؛ مختصر سوالات 19.5، 19.6، 19.7، 19.8، 19.9؛ تعمیری جوابی سوالات 19.3، 19.4، 19.5؛ جامع سوالات 19.3، 19.6",
+      "باب 20 اٹامک اور نیوکلیئر فزکس: 20.1 ایٹم کی ساخت (صفحات 168، 169)، 20.2 اٹامک نیوکلیس (صفحات 169، 170)، مثال 20.1 (صفحہ 170)، 20.3 آئسوٹوپس (صفحات 170، 171)، 20.5 ریڈیو ایکٹیو ڈیکے (صفحات 173، 174)، مثال 20.2 (صفحات 174، 175)، 20.9 نیوکلیئر ریڈی ایشن کے اثرات اور استعمال (صفحات 181–183) — مشق: کثیر الانتخابی سوالات 20.1، 20.2، 20.7، 20.8؛ مختصر سوالات 20.1، 20.2، 20.8؛ تعمیری جوابی سوالات 20.1، 20.3، 20.4؛ جامع سوالات 20.1، 20.3، 20.4؛ عددی سوالات 20.1، 20.3، 20.4، 20.7",
+      "باب 21 خلا اور ماحول: 21.1 سورج اور سیاروی ڈیٹا (صفحات 187–190) — مشق: کثیر الانتخابی سوالات 21.1، 21.2، 21.3، 21.5؛ مختصر سوالات 21.1، 21.2، 21.6، 21.7؛ تعمیری جوابی سوالات 21.1، 21.2، 21.3؛ جامع سوالات 21.1، 21.2، 21.3",
+      "خارج شدہ عملی (فزکس۔10): Determine the critical angle of glass using a semicircular slab and a light ray box or a laser light; Trace the path of a ray of light through a glass prism and measure the angle of deviation; Study resistors in a series circuit; Study resistors in a parallel circuit; Set up a burglar alarm using a NAND gate; Make a fire alarm using a NOT gate; Find the specific heat of a given solid by the method of mixture using polystyrene cup (as container of negligible heat capacity); Draw a graph between temperature and time when ice is converted into water and then to steam by slow heating. (عملی پرچہ: 30 نمبر، 2 گھنٹے — جماعت 9 سے ایک عملی اور جماعت 10 سے ایک عملی، علاوہ نوٹ بک 3 اور وائیوا 3۔)"
+     ],
+     "icon": "⚛️",
+     "id": "phy10",
+     "instructions": [
+      "The paper of Physics for Grade-10 will consist of 60 marks. Timing of the paper will be two (02) hours (Objective 15 minutes and Subjective 1:45 hours).",
+      "All questions are set from the entire textbook EXCEPT the topics / questions deleted in Annex-A.",
+      "In Part-II, each detailed question will consist of two parts. Part (a) may be asked from any chapter. Part (b) will be asked from any different chapter (not from the same chapter as Part (a)). Part (a) will carry 4 marks, while Part (b) will carry 5 marks."
+     ],
+     "instructionsUr": [
+      "جماعت دہم کی فزکس کا پرچہ 60 نمبر کا ہوگا۔ پرچے کا دورانیہ دو (02) گھنٹے ہوگا (معروضی 15 منٹ اور انشائیہ 1 گھنٹہ 45 منٹ)۔",
+      "تمام سوالات پوری کتاب سے تیار کیے جائیں گے سوائے ان موضوعات / سوالات کے جو ضمیمہ الف میں خارج کر دیے گئے ہیں۔",
+      "حصہ دوم میں ہر طویل سوال دو حصوں پر مشتمل ہوگا۔ حصہ (الف) کسی بھی باب سے پوچھا جا سکتا ہے۔ حصہ (ب) کسی دوسرے باب سے پوچھا جائے گا (حصہ (الف) والے باب سے نہیں)۔ حصہ (الف) 4 نمبر کا ہوگا جبکہ حصہ (ب) 5 نمبر کا ہوگا۔"
+     ],
+     "name": "Physics",
+     "nameUr": "طبیعیات",
+     "objective": 12,
+     "pairing": "Question 1: 12 Multiple Choice Questions — 1 from each chapter (Chapters 10–21).  Question 2–Question 4: 5 short out of 8 each (10 marks each) — Q2 from Chapters 10–13, Q3 from Chapters 14–17, Q4 from Chapters 18–21.  Question 5–Question 7: attempt 2 detailed questions, 9 marks each (4 + 5) — Q5 from Chapters 10–13, Q6 from Chapters 14–17, Q7 from Chapters 18–21.",
+     "pairingUr": "سوال 1: 12 کثیر الانتخابی سوالات — ہر باب سے 1 (ابواب 10 تا 21)۔ سوال 2 تا سوال 4: ہر ایک میں 8 میں سے 5 مختصر سوالات (ہر ایک 10 نمبر) — سوال 2 ابواب 10 تا 13 سے، سوال 3 ابواب 14 تا 17 سے، سوال 4 ابواب 18 تا 21 سے۔ سوال 5 تا سوال 7: 2 طویل سوالات حل کریں، ہر ایک 9 نمبر (4 + 5) — سوال 5 ابواب 10 تا 13 سے، سوال 6 ابواب 14 تا 17 سے، سوال 7 ابواب 18 تا 21 سے۔",
+     "subjective": 48,
+     "summary": "Deleted topics and exercise questions are listed chapter-wise for Chapters 10–21.",
+     "summaryUr": "ابواب 10 تا 21 کے لیے باب وار خارج شدہ موضوعات اور مشقی سوالات کی فہرست ہے۔",
+     "time": "2 hours",
+     "totalMarks": 60
+    },
+    {
+     "color": "#1565C0",
+     "deleted": [
+      "Chapter 14 States of Matter and Phase Changes: 14.3 Heating and Cooling Curves (pages 4–6), 14.9 Importance of Rates of Diffusion of Medicine in the Human Body (pages 12–13) — Ex: Multiple Choice Questions 02; Short Answer Questions 14.4; Constructed Response Questions 14.4; Descriptive Questions 14.3; Quick Check: Nil",
+      "Chapter 15 Stoichiometry: 15.6 Limiting Reactant (pages 25–27), 15.7 Yield (pages 27–28) — Ex: Multiple Choice Questions 7 & 8; Short Answer Questions 15.5; Constructed Response Questions 15.1 & 15.3; Descriptive Questions —; Quick Check 15.8 & 15.9; Numerical: 15.6, 15.7 & 15.8; Examples 15.16, 15.17 & 15.18",
+      "Chapter 16 Electrochemistry: 16.5 Oxidation-reduction Reaction (pages 38–39), 16.8 Electrolysis of dilute and concentrated Aqueous solution of metal halide (pages 41–43), 16.9 Electrolysis of concentrated Aqueous solution of metal halide (pages 43–44), 16.10 Electrolysis of Molten lead (II) Chloride (page 44), 16.11 Electrolysis of dilute solution of Sulphuric Acid using inert electrodes (Carbon or Pt) (pages 44–45), 16.12 Electrolysis of dilute Aqueous solution of Copper Sulphate using inert electrodes or Copper Electrodes (page 45), 16.14 Corrosion (pages 47–48), 16.17 Order of Reactivity of metals using Voltage Data (page 52) — Ex: Multiple Choice Questions 2, 3, 4, 7 & 9; Short Answer Questions: Nil; Constructed Response Questions 16.4 & 16.8; Descriptive Questions 16.5 & 16.7; Quick Check 16.3 & 16.6",
+      "Chapter 17 Reaction Kinetics: 17.2 Change in mass during a chemical Reaction (pages 57–58), 17.3 Change in Temperature during a chemical Reaction (pages 58–59), 17.4 Factors affecting the Rates of reaction (pages 59–63), 17.5 Importance of chemical Kinetics in Food Industries (pages 63–64) — Ex: Multiple Choice Questions 3 & 5; Short Answer Questions 17.2, 17.4, 17.5, 17.7, 17.9 & 17.10; Constructed Response Questions 17.2, 17.4, 17.6 & 17.7; Descriptive Questions 17.1, 17.3, 17.4 & 17.5; Quick Check 17.2 & 17.3",
+      "Chapter 18 Salts: 18.5 (b) Reactions of acids with insoluble Base (pages 71–72) — Ex: Multiple Choice Questions 5; Short Answer Questions 18.2, 18.3 & 18.4; Constructed Response Questions: Nil; Descriptive Questions 18.4; Quick Check 18.2 (2); Activity 18.2 (page 72)",
+      "Chapter 19 Nitrogen and Sulphur: 19.2 Sulphuric Acid (pages 76–78), 19.5 Reactivity Series of Metals (page 82), 19.6 Role of oxides of nitrogen in spreading air pollutants (pages 82–84) — Ex: Multiple Choice Questions 2, 6 & 8; Short Answer Questions 19.3, 19.5, 19.6 & 19.7; Constructed Response Questions 19.2, 19.3, 19.4 & 19.5; Descriptive Questions 19.2 & 19.5; Quick Check 19.2, 19.5 & 19.6",
+      "Chapter 20 Water: 20.5 Treatment of domestic Water (pages 91–92), 20.7 Water Scarcity in Pakistan (page 94), 20.8 Elements essential in Plant growth (pages 94–95) — Ex: Multiple Choice Questions 2; Short Answer Questions 20.5 & 20.6; Constructed Response Questions 20.2 & 20.4; Descriptive Questions 20.1; Quick Check 20.4",
+      "Chapter 21 Organic Chemistry: 21.4 Isomerism (page 105), 21.5 Functional Groups (pages 106–107), 21.6 (4. Alcohol), (5, Carboxylic Acid), (6 Esters) (pages 111–112) — Ex: Multiple Choice Questions 4, 6, 7 & 8; Short Answer Questions 21.4, 21.5 & 21.7; Constructed Response Questions 21.3, 21.4 & 21.5; Descriptive Questions 21.4 & 21.5; Quick Check 21.4 & 21.6",
+      "Chapter 22 Hydrocarbons: 22.4 Sources of Organic compounds (pages 121–122), 22.5 Refining of Petroleum (pages 122–124) — Ex: Multiple Choice Questions 2, 6, & 8; Short Answer Questions 22.2; Constructed Response Questions: Nil; Descriptive Questions 22.2 & 22.3; Quick Check: Nil",
+      "Chapter 23 Monohydroxy alkane & alcohols: 23.3 Applications of alcohols as fuels (pages 129–130), 23.4 Role of Ethanol in industries (pages 130–131), 23.5 Impact of alcohols on daily life (page 131) — Ex: Multiple Choice Questions 4, 5, 7, 8; Short Answer Questions 23.1, 23.2 & 23.3; Constructed Response Questions: Nil; Descriptive Questions 23.3; Quick Check 23.4",
+      "Chapter 24 Carboxylic Acid: 24.4 Industrial Applications of carboxylic Acid and esters (pages 137–138), 24.5 Carboxylic Acid and esters in daily life (pages 138–139) — Ex: Multiple Choice Questions 4, 5, 8 & 09; Short Answer Questions 24.4, 24.5, 24.6 & 24.7; Constructed Response Questions 24.2, 24.3 & 24.4; Descriptive Questions 24.2, 24.3 & 24.5; Quick Check: Nil",
+      "Chapter 25 Biochemistry: 25.5 Vitamins (pages 148–149), 25.7 Applications of Biochemistry (pages 149–151) — Ex: Multiple Choice Questions 5 & 6; Short Answer Questions 25.3 & 25.6; Constructed Response Questions 25.4; Descriptive Questions: Nil; Quick Check 25.6",
+      "Chapter 26 Polymers: 26.3 Plastics (page 158), 26.4 Importance of polymers in the textile industry (pages 158–159), 26.5 Adverse effects of Plastics (pages 159–160) — Ex: Multiple Choice Questions 5 & 6; Short Answer Questions 26.3 & 26.4; Constructed Response Questions 26.1 & 26.2; Descriptive Questions 26.4 & 26.5; Quick Check: Nil",
+      "Excluded Practicals (Chemistry-10): To identify carboxylic acids using sodium carbonate test; To standardize the given NaOH solution volumetrically; To demonstrate the conductivity of given different solutions; To demonstrate the thermal decomposition of sugar. (Practical paper: 30 marks, 2 hours — one practical from Grade 9 and one from Grade 10, plus Notebook 3 and Viva Voce 3.)"
+     ],
+     "deletedUr": [
+      "باب 14: مادہ کی حالتیں اور اُن میں تبدیلیاں: 14.3 ہیٹنگ اور کولنگ کروز، 14.9 انسانی جسم میں ادویات کے ڈیفیوژن ہونے کی رفتار کی اہمیت — مشق: کثیر الانتخابی سوالات 02؛ مختصر جوابی سوالات 14.4؛ تعمیری فکر پر مبنی سوالات 14.4؛ تفصیلی سوالات 14.3؛ فوری جانچ: کچھ نہیں",
+      "باب 15: سٹوئکیومیٹری: 15.6 لمیٹنگ ری ایکٹنٹ، 15.7 ری ایکشن کی پیداوار یا ییلڈ — مشق: کثیر الانتخابی سوالات 7 اور 8؛ مختصر جوابی سوالات 15.5؛ تعمیری فکر پر مبنی سوالات 15.1 اور 15.3؛ تفصیلی سوالات: —؛ فوری جانچ 15.8 اور 15.9؛ حسابی سوالات: 15.6، 15.7 اور 15.8؛ مثالیں 15.16، 15.17 اور 15.18",
+      "باب 16: الیکٹرو کیمسٹری: 16.5 آکسیڈیشن۔ریڈکشن ری ایکشنز، 16.8 میٹل ہیلائیڈز کے ڈائیلوٹ اور مرتکز ایکوئس سلوشنز کی الیکٹرولائسز، 16.9 میٹل ہیلائیڈز کے مرتکز ایکوئس سلوشنز کی الیکٹرولائسز، 16.10 پگھلے ہوئے لیڈ (II) کلورائیڈ کی الیکٹرولائسز، 16.11 سلفیورک ایسڈ کے ڈائیلوٹ سلوشن کی الیکٹرولائسز انرٹ الیکٹروڈز کی مدد سے (کاربن یا پلاٹینم)، 16.12 کاپر سلفیٹ کے ڈائیلوٹ ایکوئس سلوشن کی الیکٹرولائسز انرٹ الیکٹروڈز یا کاپر الیکٹروڈز کی مدد سے، 16.14 کوروزن یا زنگ لگنا، 16.17 وولٹیج ڈیٹا کی مدد سے میٹلز کی ری ایکٹیویٹی کا آرڈر / ترتیب دینا — مشق: کثیر الانتخابی سوالات 2، 3، 4، 7 اور 9؛ مختصر جوابی سوالات: کچھ نہیں؛ تعمیری فکر پر مبنی سوالات 16.4 اور 16.8؛ تفصیلی سوالات 16.5 اور 16.7؛ فوری جانچ 16.3 اور 16.6",
+      "باب 17: ری ایکشن کائنےٹکس: 17.2 کیمیکل ری ایکشن کے دوران ماس کا تبدیل ہو جانا، 17.3 ری ایکشن کے دوران ٹمپریچر میں تبدیلی، 17.4 ری ایکشن کے ریٹس پر مختلف عوامل کے اثرات، 17.5 خوراک کی صنعت میں کیمیکل کائنےٹکس کی اہمیت — مشق: کثیر الانتخابی سوالات 3 اور 5؛ مختصر جوابی سوالات 17.2، 17.4، 17.5، 17.7، 17.9 اور 17.10؛ تعمیری فکر پر مبنی سوالات 17.2، 17.4، 17.6 اور 17.7؛ تفصیلی سوالات 17.1، 17.3، 17.4 اور 17.5؛ فوری جانچ 17.2 اور 17.3",
+      "باب 18: سالٹس: 18.5 (ب) پانی میں حل پذیر یا انحلال پذیر سالٹس کی تیاری میں ناحل پذیر بیس کے ری ایکشن سے — مشق: کثیر الانتخابی سوالات 5؛ مختصر جوابی سوالات 18.2، 18.3 اور 18.4؛ تعمیری فکر پر مبنی سوالات: کچھ نہیں؛ تفصیلی سوالات 18.4؛ فوری جانچ 18.2 (2)؛ سرگرمی 18.2",
+      "باب 19: نائٹروجن اور سلفر: 19.2 سلفیورک ایسڈ، 19.5 میٹلز کی ری ایکٹیویٹی سیریز، 19.6 فضائی آلودگی پھیلانے میں نائٹروجن کے آکسائیڈز کا کردار — مشق: کثیر الانتخابی سوالات 2، 6 اور 8؛ مختصر جوابی سوالات 19.3، 19.5، 19.6 اور 19.7؛ تعمیری فکر پر مبنی سوالات 19.2، 19.3، 19.4 اور 19.5؛ تفصیلی سوالات 19.2 اور 19.5؛ فوری جانچ 19.2، 19.5 اور 19.6",
+      "باب 20: پانی: 20.5 Treatment of domestic Water، 20.7 Water Scarcity in Pakistan، 20.8 Elements essential in Plant growth — مشق: کثیر الانتخابی سوالات 2؛ مختصر جوابی سوالات 20.5 اور 20.6؛ تعمیری فکر پر مبنی سوالات 20.2 اور 20.4؛ تفصیلی سوالات 20.1؛ فوری جانچ 20.4",
+      "باب 21: آرگینک کیمسٹری: 21.4 آئسومیرزم، 21.5 فنکشنل گروپ، 21.5 کے ذیلی حصے: (a) ہائیڈروکسل گروپ (الکوحل)، (d) کاربوکسل گروپ (کاربوکسلک ایسڈ)، (g) ایسٹر گروپ — مشق: کثیر الانتخابی سوالات 4، 6، 7 اور 8؛ مختصر جوابی سوالات 21.4، 21.5 اور 21.7؛ تعمیری فکر پر مبنی سوالات 21.3، 21.4 اور 21.5؛ تفصیلی سوالات 21.4 اور 21.5؛ فوری جانچ 21.4 اور 21.6",
+      "باب 22: ہائیڈرو کاربنز: 22.4 آرگینک کمپاؤنڈز حاصل کرنے کے ذرائع، 22.5 پٹرولیم کی ریفائننگ — مشق: کثیر الانتخابی سوالات 2، 6 اور 8؛ مختصر جوابی سوالات 22.2؛ تعمیری فکر پر مبنی سوالات: کچھ نہیں؛ تفصیلی سوالات 22.2 اور 22.3؛ فوری جانچ: کچھ نہیں",
+      "باب 23: مونوہائیڈروکسی الکینز یا الکوحلر: 23.3 الکوحلرز کا بطور ایندھن استعمال، 23.4 صنعتوں میں ایتھانول کا کردار، 23.5 روزمرہ کی زندگی میں الکوحلر کے اثرات — مشق: کثیر الانتخابی سوالات 4، 5، 7 اور 8؛ مختصر جوابی سوالات 23.1، 23.2 اور 23.3؛ تعمیری فکر پر مبنی سوالات: کچھ نہیں؛ تفصیلی سوالات 23.3؛ فوری جانچ 23.4",
+      "باب 24: کاربوکسلک ایسڈز: 24.4 کاربوکسلک ایسڈز اور ایسٹرز کے صنعتی استعمالات، 24.5 روزمرہ کی زندگی میں کاربوکسلک ایسڈز اور ایسٹرز — مشق: کثیر الانتخابی سوالات 4، 5، 8 اور 09؛ مختصر جوابی سوالات 24.4، 24.5، 24.6 اور 24.7؛ تعمیری فکر پر مبنی سوالات 24.2، 24.3 اور 24.4؛ تفصیلی سوالات 24.2، 24.3 اور 24.5؛ فوری جانچ: کچھ نہیں",
+      "باب 25: بائیو کیمسٹری: 25.5 وٹامنز، 25.7 بائیو کیمسٹری کے استعمالات — مشق: کثیر الانتخابی سوالات 5 اور 6؛ مختصر جوابی سوالات 25.3 اور 25.6؛ تعمیری فکر پر مبنی سوالات 25.4؛ تفصیلی سوالات: کچھ نہیں؛ فوری جانچ 25.6",
+      "باب 26: پولیمرز: 26.3 پلاسٹکس، 26.4 ٹیکسٹائل انڈسٹری میں پولیمرز کی اہمیت، 26.5 پلاسٹک کے بُرے اثرات — مشق: کثیر الانتخابی سوالات 5 اور 6؛ مختصر جوابی سوالات 26.3 اور 26.4؛ تعمیری فکر پر مبنی سوالات 26.1 اور 26.2؛ تفصیلی سوالات 26.4 اور 26.5؛ فوری جانچ: کچھ نہیں",
+      "خارج شدہ پریکٹیکلز (کیمسٹری 10): سوڈیم کاربونیٹ ٹیسٹ سے کاربوکسلک ایسڈز کی شناخت کرنا؛ دیے گئے NaOH محلول کو حجمی طریقے سے معیاری بنانا؛ دیے گئے مختلف محلولوں کی برقی موصلیت (کنڈکٹیویٹی) کا مظاہرہ کرنا؛ چینی کی حرارتی تحلیل (تھرمل ڈی کمپوزیشن) کا مظاہرہ کرنا۔ (پریکٹیکل پرچہ: 30 نمبر، 2 گھنٹے — جماعت نہم کا ایک پریکٹیکل اور جماعت دہم کا ایک پریکٹیکل، ساتھ نوٹ بک کے 3 نمبر اور زبانی امتحان کے 3 نمبر۔)"
+     ],
+     "icon": "🧪",
+     "id": "chem10",
+     "instructions": [
+      "All types of questions for the BISE Examination paper will be prepared from the entire content of the textbook other than those topics and questions which have been excluded / deleted in the Smart Syllabus (ALP) for Chemistry-10 (Academic Session 2026-27).",
+      "The Chemistry paper for Grade-10 will consist of 60 marks. Timing of the paper will be two hours."
+     ],
+     "instructionsUr": [
+      "بی آئی ایس ای کے امتحانی پرچے کے لیے ہر قسم کے سوالات نصابی کتاب کے مکمل مواد سے تیار کیے جائیں گے، سوائے ان موضوعات اور سوالات کے جو سمارٹ سلیبس (ALP) برائے کیمسٹری 10 (تعلیمی سیشن 2026-27) میں خارج / حذف کیے گئے ہیں۔",
+      "جماعت دہم کے کیمسٹری کے پرچے کے کل 60 نمبر ہوں گے۔ پرچے کا وقت دو گھنٹے ہوگا۔"
+     ],
+     "name": "Chemistry",
+     "nameUr": "کیمسٹری",
+     "objective": 12,
+     "pairing": "Question 1: 12 Multiple Choice Questions — 1 from each chapter except Chapter 25.  Question 2–Question 4: 5 short out of 8 each (10 marks each) — Q2 from Chapters 14–18 (2, 1, 1, 2, 2); Q3 from Chapters 19–22 (2 each); Q4 from Chapters 23–26 (2 each).  Question 5–Question 7: attempt 2 detailed questions, 9 marks each (in two parts a & b, 5 & 4 marks) — Q5 (a) Chapter 14, (b) Chapter 15; Q6 (a) Chapter 20, (b) Chapter 22; Q7 (a) Chapter 23, (b) Chapter 25.",
+     "pairingUr": "سوال نمبر 1: 12 کثیر الانتخابی سوالات — باب 25 کے سوا ہر باب سے 1۔ سوال نمبر 2 تا سوال نمبر 4: ہر ایک میں 8 میں سے 5 مختصر سوالات (ہر ایک 10 نمبر) — سوال 2 ابواب 14 تا 18 سے (2، 1، 1، 2، 2)؛ سوال 3 ابواب 19 تا 22 سے (ہر ایک سے 2)؛ سوال 4 ابواب 23 تا 26 سے (ہر ایک سے 2)۔ سوال نمبر 5 تا سوال نمبر 7: 2 تفصیلی سوالات کی کوشش کریں، ہر ایک 9 نمبر (دو حصوں الف و ب میں، 5 اور 4 نمبر) — سوال 5 (الف) باب 14، (ب) باب 15؛ سوال 6 (الف) باب 20، (ب) باب 22؛ سوال 7 (الف) باب 23، (ب) باب 25۔",
+     "subjective": 48,
+     "summary": "Deleted topics and exercise questions are listed chapter-wise for Chapters 14–26.",
+     "summaryUr": "ابواب 14 تا 26 کے حذف شدہ موضوعات اور مشقی سوالات باب وار درج ہیں۔",
+     "time": "2 hours",
+     "totalMarks": 60
+    },
+    {
+     "color": "#2E7D32",
+     "deleted": [
+      "Chapter 1 Human Digestive System: 1.1 Nutrition and its importance (page 2), 1.3 Disorders of Digestive System (pages 9–10) — Ex: Short answers No. 6 (page 11); All Inquisitive Questions (page 11)",
+      "Chapter 2 Human Respiratory System: Respiratory Disorders and effect of smoking (pages 17–21) — Ex: MCQ No. 8–10 (page 22); Short answers No. 6, 7 and 8 (page 23); Long questions No. 4 (page 23); All Inquisitive Questions",
+      "Chapter 3 Human Blood Circulatory System: Cardiovascular Disorders (pages 33–36) — Ex: MCQ No. 9 (page 36); Short answers No. 4 (page 37); Long questions No. 4 (page 37); All Inquisitive Questions (page 37)",
+      "Chapter 4 Human Urinary System: 4.3 Disorders of Kidney (pages 43–45) — Ex: MCQ No. 8, 9, 10 (page 46); Short answers No. 4, 5, 6 and 7(v) (pages 46–47); Long questions No. 5, 6 & 7 (page 47); All Inquisitive Questions (page 47)",
+      "Chapter 5 Coordination: Background Information (page 49), Table 5 (page 61) — Ex: Short answers No. 1 (page 62); All Inquisitive Questions (page 63)",
+      "Chapter 6 Reproductive System: 6.2 Role of hormones in Sexual Development (pages 67–68) — Ex: MCQ No. 3, 4 & 7 (pages 70–71); Short answers No. 7(i) (page 71); Long questions No. 1 & 2 (page 72); All Inquisitive Questions (page 72)",
+      "Chapter 7 Inheritance: 7.1 Structure of Chromosomes (pages 74–75) — Ex: MCQ No. 1 (page 82); Short answers No. 8 (page 84); Long questions No. 1 (page 85); All Inquisitive Questions (page 85)",
+      "Chapter 8 Biotechnology: 8.1 Introduction to Biotechnology (pages 87–88), 8.4 Potential Risks of Biotechnology (page 93) — Ex: MCQ No. 1 (page 93); Short answers No. 1 (page 94); Long questions No. 3 & 6 (page 95); All Inquisitive Questions (page 95)",
+      "Chapter 9 Diseases and Immunity: 9.2 Pathogens along with table 9.1 (pages 100–101) — Ex: All Inquisitive Questions (page 105)",
+      "Chapter 10 Evolution: 10.1 Darwins Observation (pages 107–108), 10.3 Species and Speciation (pages 110–111) — Ex: MCQ No. 2 & 5 (page 115); Short answers No. 2 (page 116); Long questions No. 2 (page 116); All Inquisitive Questions (page 116)",
+      "Excluded Practicals (Biology-10): Measurement of differences in length / weight of raw potato strips in concentrated salt solution and water; Activity to compare the breathing rate at rest and after exercise; Demonstration of the presence of tar in cigarette smoke and also by charts showing pictures of lungs of smokers and nonsmokers; Experiment to observe the contraction in the shin muscle of frog in a Petri dish filled with methylene blue and using 12 V DC current. (Practical paper: 30 marks, 2 hours.)"
+     ],
+     "deletedUr": [
+      "باب 1: انسان کا ڈائجسٹو سسٹم: 1.1 نیوٹریشن اور اس کی اہمیت (صفحہ 2)، 1.3 ڈائجسٹو سسٹم کی بیماریاں (صفحات 9–10) — مشق: مختصر جوابات نمبر 6 (صفحہ 11)؛ تمام انکشافی سوالات (صفحہ 11)",
+      "باب 2: انسان کا ریسپیریٹری سسٹم: 2.3 ریسپیریٹری سسٹم کی بیماریاں اور سموکنگ کے اثرات (صفحات 17–21) — مشق: کثیر الانتخابی سوالات نمبر 8–10 (صفحہ 22)؛ مختصر جوابات نمبر 6، 7 اور 8 (صفحہ 23)؛ طویل سوالات نمبر 4 (صفحہ 23)؛ تمام انکشافی سوالات",
+      "باب 3: انسان کا بلڈ سرکیولیٹری سسٹم: 3.5 کارڈیو ویسکولر بیماریاں (صفحات 33–36) — مشق: کثیر الانتخابی سوالات نمبر 9 (صفحہ 36)؛ مختصر جوابات نمبر 4 (صفحہ 37)؛ طویل سوالات نمبر 4 (صفحہ 37)؛ تمام انکشافی سوالات (صفحہ 37)",
+      "باب 4: انسان کا یورینری سسٹم: 4.3 گردے کی بیماریاں (صفحات 43–45) — مشق: کثیر الانتخابی سوالات نمبر 8، 9، 10 (صفحہ 46)؛ مختصر جوابات نمبر 4، 5، 6 اور 7(v) (صفحات 46–47)؛ طویل سوالات نمبر 5، 6 اور 7 (صفحہ 47)؛ تمام انکشافی سوالات (صفحہ 47)",
+      "باب 5: کوآرڈینیشن: پس منظر معلومات (صفحہ 49)، ٹیبل 5.1: اینڈوکرائن گلینڈز اور ان کے افعال (صفحہ 61) — مشق: مختصر جوابات نمبر 1 (صفحہ 62)؛ تمام انکشافی سوالات (صفحہ 63)",
+      "باب 6: ریپروڈکشن: 6.2 سیکسوئل ڈیویلپمنٹ میں ہارمونز کا کردار (صفحات 67–68) — مشق: کثیر الانتخابی سوالات نمبر 3، 4 اور 7 (صفحات 70–71)؛ مختصر جوابات نمبر 7(i) (صفحہ 71)؛ طویل سوالات نمبر 1 اور 2 (صفحہ 72)؛ تمام انکشافی سوالات (صفحہ 72)",
+      "باب 7: وراثت: 7.1 کروموسوم کی ساخت (صفحات 74–75) — مشق: کثیر الانتخابی سوالات نمبر 1 (صفحہ 82)؛ مختصر جوابات نمبر 8 (صفحہ 84)؛ طویل سوالات نمبر 1 (صفحہ 85)؛ تمام انکشافی سوالات (صفحہ 85)",
+      "باب 8: بائیو ٹیکنالوجی: 8.1 بائیو ٹیکنالوجی کا تعارف (صفحات 87–88)، 8.4 بائیو ٹیکنالوجی کے ممکنہ خطرات (صفحہ 93) — مشق: کثیر الانتخابی سوالات نمبر 1 (صفحہ 93)؛ مختصر جوابات نمبر 1 (صفحہ 94)؛ طویل سوالات نمبر 3 اور 6 (صفحہ 95)؛ تمام انکشافی سوالات (صفحہ 95)",
+      "باب 9: بیماریاں اور قوت مدافعت: 9.2 بیماری پھیلانے والے جراثیم مع ٹیبل 9.1: پیتھوجنز کی اقسام (صفحات 100–101) — مشق: تمام انکشافی سوالات (صفحہ 105)",
+      "باب 10: ارتقا: 10.1 ڈارون کے مشاہدات (صفحات 107–108)، 10.3 سپیشیز اور سپیشی ایشن (صفحات 110–111) — مشق: کثیر الانتخابی سوالات نمبر 2 اور 5 (صفحہ 115)؛ مختصر جوابات نمبر 2 (صفحہ 116)؛ طویل سوالات نمبر 2 (صفحہ 116)؛ تمام انکشافی سوالات (صفحہ 116)",
+      "خارج شدہ پریکٹیکلز (حیاتیات 10): Measurement of differences in length / weight of raw potato strips in concentrated salt solution and water; Activity to compare the breathing rate at rest and after exercise; Demonstration of the presence of tar in cigarette smoke and also by charts showing pictures of lungs of smokers and nonsmokers; Experiment to observe the contraction in the shin muscle of frog in a Petri dish filled with methylene blue and using 12 V DC current. (پریکٹیکل پرچہ: 30 نمبر، 2 گھنٹے۔)"
+     ],
+     "icon": "🌿",
+     "id": "bio10",
+     "instructions": [
+      "All types of questions for the BISE Examination paper will be prepared from the entire content of the textbook other than those topics and questions which have been excluded / deleted in the Smart Syllabus (ALP) for Biology Grade-10 (Academic Session 2026-27).",
+      "The paper of Biology for Grade-10 will consist of 60 marks. Timing of the paper will be two hours.",
+      "All the side boxes present in the deleted topics will be considered deleted."
+     ],
+     "instructionsUr": [
+      "BISE کے امتحانی پرچے کے تمام اقسام کے سوالات پوری کتاب سے تیار کیے جائیں گے، سوائے ان موضوعات اور سوالات کے جو حیاتیات جماعت 10 (تعلیمی سیشن 2026-27) کے سمارٹ سلیبس (ALP) میں خارج / حذف کر دیے گئے ہیں۔",
+      "جماعت 10 حیاتیات کا پرچہ 60 نمبر کا ہوگا۔ پرچے کا وقت دو گھنٹے ہوگا۔",
+      "خارج شدہ موضوعات میں موجود تمام سائیڈ باکسز بھی خارج تصور کیے جائیں گے۔"
+     ],
+     "name": "Biology",
+     "nameUr": "حیاتیات",
+     "objective": 12,
+     "pairing": "Question 1: 12 Multiple Choice Questions — 1 each from Chapters 1, 2, 3, 5, 6, 7, 8, 9; 2 each from Chapters 4 and 10.  Question 2–Question 4: 5 short out of 8 each (10 marks each) — Q2 from Chapters 1, 2, 5 (2, 4, 2); Q3 from Chapters 3, 4, 6, 7 (2, 3, 1, 2); Q4 from Chapters 8, 9, 10 (2, 2, 4).  Question 5–Question 7: attempt 2 detailed questions, 9 marks each (in two parts a & b, 5 & 4 marks) — Q5 (a) Chapter 1, (b) Chapter 3; Q6 (a) Chapter 6, (b) Chapter 5; Q7 (a) Chapter 9, (b) Chapter 8.",
+     "pairingUr": "سوال 1: 12 کثیر الانتخابی سوالات — ابواب 1، 2، 3، 5، 6، 7، 8، 9 میں سے ہر ایک سے 1، ابواب 4 اور 10 میں سے ہر ایک سے 2۔ سوال 2 تا سوال 4: ہر ایک میں 8 میں سے 5 مختصر سوالات (ہر ایک 10 نمبر) — سوال 2 ابواب 1، 2، 5 سے (2، 4، 2)؛ سوال 3 ابواب 3، 4، 6، 7 سے (2، 3، 1، 2)؛ سوال 4 ابواب 8، 9، 10 سے (2، 2، 4)۔ سوال 5 تا سوال 7: 2 تفصیلی سوالات حل کریں، ہر ایک 9 نمبر (دو حصوں الف و ب، 5 اور 4 نمبر) — سوال 5 (الف) باب 1، (ب) باب 3؛ سوال 6 (الف) باب 6، (ب) باب 5؛ سوال 7 (الف) باب 9، (ب) باب 8۔",
+     "subjective": 48,
+     "summary": "Deleted topics and exercise questions are listed chapter-wise for all 10 chapters.",
+     "summaryUr": "تمام 10 ابواب کے لیے باب وار خارج شدہ موضوعات اور مشق کے سوالات کی فہرست دی گئی ہے۔",
+     "time": "2 hours",
+     "totalMarks": 60
+    },
+    {
+     "color": "#37474F",
+     "deleted": [
+      "Unit 1 Operating Systems: Structure and Services: Process Scheduling Concepts (pages 7–9) — Ex: MCQ (Q. 6) (page 17); Short Question (Q. 6) (page 18); Long Questions (Q. 5) (page 18)",
+      "Unit 2 System Recovery and Advanced Maintenance — COMPLETE UNIT EXCLUDED",
+      "Unit 5 Data Science: Tools for Data Visualization (pages 81, 82) — Ex: MCQs (Q. 4, 6, 8); Short Questions (Q. 5, 8) (pages 86, 87); Long Question (Q. 2) (page 87)",
+      "Unit 6 Introduction to Machine Learning: Linear Regression (pages 95–96) — Ex: Short Question (Q. 8) (page 100)",
+      "Unit 8 Digital Entrepreneurship: Ethical Business Practice & Digital Ethics (pages 118–121), Legal Framework & Compliance (pages 121–124) — Ex: MCQ (Q. 2, 6, 7, 9) (page 131); Short Questions (Q. 3, 4, 5) (page 132); Long Question (Q. 2) (page 132)",
+      "Excluded Practicals (Computer Science & Entrepreneurship Grade-10, Practicals 35–37 and 57–58): Identify possible hardware issues in a computer system (such as RAM or hard drive problems) by observing system behavior and recording the symptoms; Check the system information and device status using the operating system tools (such as Device Manager) to identify any hardware problems; Use basic troubleshooting techniques to diagnose a hardware issue (e.g., checking cable connections, restarting the system, or observing error messages); Create a bar chart to visualize given data of four students (name, marks) from a spreadsheet; Create a line chart to show trends in a given dataset."
+     ],
+     "deletedUr": [
+      "یونٹ 1 آپریٹنگ سسٹم: ساخت اور خدمات: پروسیس شیڈولنگ کے تصورات (Process Scheduling Concepts) (صفحات 6 تا 9) — مشق: کثیر الانتخابی سوال 6 (صفحہ 17)؛ مختصر سوال 6 (صفحہ 17)؛ طویل سوال 5 (صفحہ 18)",
+      "یونٹ 2 سسٹم ریکوری اینڈ ایڈوانسڈ مینٹیننس — مکمل یونٹ خارج",
+      "یونٹ 5 ڈیٹا سائنس کا تعارف: ویژولائزیشن کے لیے ٹولز (صفحات 88 تا 89) — مشق: کثیر الانتخابی سوالات 4، 6، 8 (صفحات 92 تا 93)؛ مختصر سوالات 5، 8؛ طویل سوال 2 (صفحہ 94)",
+      "یونٹ 6 مصنوعی ذہانت (AI) اور مشین لرننگ (ML) کا تعارف: سادہ لینیئر ریگریشن (Linear Regression) (صفحات 102 تا 103) — مشق: مختصر سوال 8 (صفحہ 107)",
+      "یونٹ 8 ڈیجیٹل انٹرپرینیورشپ: اخلاقی کاروباری طریقے اور ڈیجیٹل ایتھکس (صفحات 128 تا 131)، لیگل فریم ورک اور کمپلائنس (صفحات 131 تا 134) — مشق: کثیر الانتخابی سوالات 2، 6، 7، 9 (صفحات 141 تا 142)؛ مختصر سوالات 3، 4، 5 (صفحات 142 تا 143)؛ طویل سوال 2 (صفحہ 143)",
+      "خارج شدہ پریکٹیکلز (کمپیوٹر سائنس اینڈ انٹرپرینیورشپ جماعت دہم، پریکٹیکلز 35 تا 37 اور 57 تا 58): کمپیوٹر سسٹم میں ممکنہ ہارڈ ویئر مسائل (جیسے RAM یا ہارڈ ڈرائیو کے مسائل) کی شناخت سسٹم کے رویے کا مشاہدہ کر کے اور علامات ریکارڈ کر کے کریں؛ کسی بھی ہارڈ ویئر مسئلے کی شناخت کے لیے آپریٹنگ سسٹم کے ٹولز (جیسے ڈیوائس مینیجر) استعمال کر کے سسٹم کی معلومات اور ڈیوائس کی حالت چیک کریں؛ ہارڈ ویئر کے مسئلے کی تشخیص کے لیے بنیادی ٹربل شوٹنگ کی تکنیکیں استعمال کریں (مثلاً کیبل کے کنکشن چیک کرنا، سسٹم کو دوبارہ شروع کرنا، یا غلطی کے پیغامات کا مشاہدہ کرنا)؛ اسپریڈ شیٹ سے چار طلبہ کے دیے گئے ڈیٹا (نام، نمبر) کو ظاہر کرنے کے لیے بار چارٹ بنائیں؛ دیے گئے ڈیٹا سیٹ میں رجحانات دکھانے کے لیے لائن چارٹ بنائیں۔"
+     ],
+     "icon": "💻",
+     "id": "cs10",
+     "instructions": [
+      "No question should be evaluated from excluded topics in any section, including Unit Summary, content-based questions, exercises, MCQs, short questions and essay type (long) questions.",
+      "The paper will consist of 50 marks. The duration for the Multiple-Choice Questions (MCQs) section will be 15 minutes, while the time allocated for the short and long questions section will be 1 hour and 45 minutes."
+     ],
+     "instructionsUr": [
+      "خارج شدہ مواد سے کوئی معروضی، انشائی یا دیگر سوال نہیں بنایا جائے گا، بشمول یونٹ کا خلاصہ، مواد پر مبنی سوالات، مشقیں، کثیر الانتخابی سوالات، مختصر سوالات اور طویل سوالات۔",
+      "کمپیوٹر سائنس اینڈ انٹرپرینیورشپ 10 کا پرچہ 50 نمبروں پر مشتمل ہوگا۔ کثیر الانتخابی سوالات کے حصے کی مدت 15 منٹ ہوگی، جبکہ مختصر اور طویل سوالات کے حصے کے لیے 1 گھنٹہ 45 منٹ کا وقت دیا جائے گا۔"
+     ],
+     "name": "Computer Science & Entrepreneurship",
+     "nameUr": "کمپیوٹر سائنس اینڈ انٹرپرینیورشپ",
+     "objective": 10,
+     "pairing": "Question 1: 10 Multiple Choice Questions — 1 each from Chapters 1, 4, 6, 8; 2 each from Chapters 3, 5, 7.  Question 2: 4 short out of 6 (2 from Chapter 1, 4 from Chapter 3).  Question 3: 4 short out of 6 (2 from Chapter 4, 4 from Chapter 5).  Question 4: 4 short out of 6 (2 each from Chapters 6, 7 and 8).  Question 5–Question 7: attempt 2 long questions, 8 marks each (Q5 from Chapter 1, Q6 from Chapter 4, Q7 from Chapter 6 or 8).",
+     "pairingUr": "سوال نمبر 1: 10 کثیر الانتخابی سوالات — باب 1، 4، 6، 8 میں سے ہر ایک سے 1؛ باب 3، 5، 7 میں سے ہر ایک سے 2۔ سوال نمبر 2: 6 میں سے 4 مختصر سوالات (باب 1 سے 2، باب 3 سے 4)۔ سوال نمبر 3: 6 میں سے 4 مختصر سوالات (باب 4 سے 2، باب 5 سے 4)۔ سوال نمبر 4: 6 میں سے 4 مختصر سوالات (باب 6، 7 اور 8 میں سے ہر ایک سے 2)۔ سوال نمبر 5 تا سوال نمبر 7: 2 طویل سوالات حل کریں، ہر ایک 8 نمبر (سوال 5 باب 1 سے، سوال 6 باب 4 سے، سوال 7 باب 6 یا 8 سے)۔",
+     "subjective": 40,
+     "summary": "50 marks paper (10 Multiple Choice Questions + 40 subjective). Exclusions listed unit-wise for Units 1, 2, 5, 6 and 8; Units 3, 4 and 7 are fully retained.",
+     "summaryUr": "50 نمبروں کا پرچہ (10 کثیر الانتخابی سوالات + 40 انشائی)۔ حذف شدہ مواد یونٹس 1، 2، 5، 6 اور 8 کے لیے یونٹ وار درج ہے؛ یونٹس 3، 4 اور 7 مکمل برقرار ہیں۔",
+     "time": "2 hours",
+     "totalMarks": 50
+    },
+    {
+     "color": "#00838F",
+     "deleted": [
+      "Chapter 7 Energy: 7.3 Interconversion of Energy (pages 94–95) — Ex: Q# 4 (i); 7.8 Degradation of Environment (pages 103–104) — Ex: Q# 4 (iv); Q# 7",
+      "Chapter 8 Current Electricity: 8.11 Dangers of Electricity and Precautionary Measures (pages 120–122)",
+      "Chapter 10 Science and Technology: 10.9 EEG (Electroencephalography) (page 159) — Ex: Q# 4 (iv)"
+     ],
+     "icon": "🔭",
+     "id": "gsci10",
+     "instructions": [
+      "The paper of General Science for Grade-10 will consist of 50 marks. Duration of the paper will be 2 hours (Objective Type = 20 minutes + Subjective Type = 1:40 hours).",
+      "Objective Type = 12 marks + Subjective Type = 38 marks."
+     ],
+     "name": "General Science",
+     "objective": 12,
+     "pairing": "Question 1: 12 Multiple Choice Questions — 2 each from Chapters 8, 10 and 11; 3 each from Chapters 7 and 9.  Question 2: 4 short out of 6 (3 marks each) — 3 each from Chapters 7 and 8.  Question 3: 4 short out of 6 (3 marks each) — 2 each from Chapters 9, 10 and 11.  Question 4–Question 6: attempt 2 detailed questions, 7 marks each (in two parts a & b, 4 & 3 marks) — Q4 (a) Chapter 7, (b) Chapter 11; Q5 (a) Chapter 8, (b) Chapter 8; Q6 (a) Chapter 9, (b) Chapter 10.",
+     "subjective": 38,
+     "summary": "Deleted topics are listed chapter-wise for Chapters 7, 8 and 10; Chapters 9 and 11 are fully retained.",
+     "time": "2 hours",
+     "totalMarks": 50
+    }
+   ],
+   "subtitle": "Grade 10  •  SSC Part II",
+   "title": "Class 10"
+  },
+  {
+   "color": "#6A1B9A",
+   "exam": "BISE Annual Exam 2027",
+   "icon": "11",
+   "id": "11",
+   "status": "OFFICIAL — Notified 06 Nov 2026",
+   "statusType": "official",
+   "subjects": [
+    {
+     "color": "#C62828",
+     "deleted": [
+      "Unit 4: Team Moon — DELETED",
+      "Unit 7: What You Do is What You Are — DELETED",
+      "Unit 9: Freedom (Poem) — DELETED",
+      "Unit 12: The Impact of AI on Society, Human Relationships, and Ethics — DELETED"
+     ],
+     "icon": "📖",
+     "id": "eng11",
+     "instructions": [
+      "No objective, subjective or other question will be set from Units 4, 7, 9 and 12.",
+      "Paper setters must follow the Smart Syllabus strictly."
+     ],
+     "name": "English",
+     "objective": 20,
+     "pairing": "Objective: 20 marks (30 min). Subjective: 80 marks (2 hours 30 min). Total 100 marks.",
+     "subjective": 80,
+     "summary": "4 units out of 14 are deleted. Study the remaining 10 units only.",
+     "time": "3 hours",
+     "totalMarks": 100
+    },
+    {
+     "color": "#6A1B9A",
+     "deleted": [
+      "Unit 1 Complex Numbers: 1.4.1 Polar Form of a Complex Number, Operations on Complex Numbers in Polar Form, Examples 12–16; 1.5 Complex Numbers in the Real World, Examples 17 & 18; Exercise 1.5 Question 2–22",
+      "Unit 2 Functions and Graphs: 2.5 Real Life Applications, Examples 12 & 13; Exercise 2.2 Question 4 & 5",
+      "Unit 3 Theory of Quadratic Functions: 3.5 Real World Problems of Quadratic Equations and Inequalities, Examples 9 & 10; Exercise 3.2 Question 2–7",
+      "Unit 4 Matrices and Determinants: 4.6 Elementary Row Operation on a Matrix; 4.7 Echelon and Reduced Echelon Form of Matrices, Examples 8–10; 4.8 System of Non-Homogeneous Linear Equations, Example 11; 4.9 System of Homogeneous Linear Equations, Examples 14 & 15; 4.10 Applications of Matrices in Real World, Examples 16 & 17; Exercise 4.3 Question 1, 2, 5–11",
+      "Unit 5 Partial Fractions — NO content deleted (unit fully retained)",
+      "Unit 6 Sequences and Series: Exercise 6.2 Question 20–23; Exercise 6.3 Question 6; Exercise 6.4 Question 17–19; Exercise 6.5 Question 7–10 & 14; Exercise 6.6 Question 7 & 8; Exercise 6.7 Question 6; 6.8 Arithmetico-Geometric Progression, Examples 19–21; Exercise 6.8 (complete); Exercise 6.9 Question 13–18; 6.11 Real Life Problems involving Sequences and Series, Examples 27–31; Exercise 6.11 (complete)",
+      "Unit 7 Permutations and Combinations: Exercise 7.2 Question 6, 9 & 11; Exercise 7.3 Question 9–11; Exercise 7.4 Question 4–6, 17 & 18",
+      "Unit 8 Mathematical Induction and Binomial Theorem — COMPLETE UNIT DELETED / EXCLUDED",
+      "Unit 9 Division of Polynomials — NO content deleted (unit fully retained)",
+      "Unit 10 Trigonometric Identities: 10.6 Triple Angle Identities; Exercise 10.3 Question 2 (viii, ix, x & xii), Question 5; Exercise 10.4 Question 6–10",
+      "Unit 11 Trigonometric Functions and their Graphs: 11.4.1 Graph of Trigonometric Functions; 11.4.2 Graph of y = sin x; 11.4.3 Graph of y = cos x; 11.4.4 Graph of y = tan x; Exercise 11.2 (complete)",
+      "Unit 12 Limit and Continuity: 12.4 Application of Transcendental Functions to Limits and Continuity on Real World Problems, Examples 14–17; Exercise 12.3 (complete)",
+      "Unit 13 Differentiation: 13.7 Applications of Differentiation, Examples 12–15; Exercise 13.3 (complete)",
+      "Unit 14 Vectors in Space: Exercise 14.1 Question 9 & 10; Exercise 14.2 Question 7, 8 & 12; 14.4 Scalar Triple Product, Examples 23–31; Exercise 14.4 (complete)"
+     ],
+     "icon": "➗",
+     "id": "math11",
+     "instructions": [
+      "All questions are selected from the entire content EXCEPT the deleted topics.",
+      "Full unit-wise deleted list is in the official ALP PDF."
+     ],
+     "name": "Mathematics",
+     "objective": 20,
+     "pairing": "Question 1: 20 Multiple Choice Questions from all units.  Question 2–Question 4: short questions (Part I).  Question 5–Question 9: long questions (Part II), choice-based. Total 100 marks, 3 hours (Objective 20 min + Subjective 2:40).",
+     "subjective": 80,
+     "summary": "Unit 8 (Mathematical Induction and Binomial Theorem) is fully deleted. Units 5 and 9 are fully retained.",
+     "time": "3 hours",
+     "totalMarks": 100
+    },
+    {
+     "color": "#0B6B3A",
+     "deleted": [
+      "Chapter 1 Measurements: 1.1 Physical quantities and their units, 1.2 International system of units — Ex: Multiple Choice Questions 1.2–1.4, 1.14, 1.16; Short Questions 1.1, 1.3–1.5; Constructed Response Questions 1.1, 1.3, 1.5–1.9, 1.11; Comprehensive Question 1.3 (Part-b); Numericals 1.1, 1.2, 1.8",
+      "Chapter 2 Force and Motion: 2.1 Scalars, 2.2 Vectors, derivation of equations of motion by graphical method (only), 2.10 Elastic collision in two dimensions, 2.11 Inelastic collision in two dimensions, 2.12 Rocket propulsion, Examples 2.1, 2.4 — Ex: Multiple Choice Question 2.8; Short Question 2.7; Constructed Response Questions 2.3, 2.4; Comprehensive Questions 2.3, 2.7, 2.8 (inelastic part); Numericals 2.4, 2.10–2.12",
+      "Chapter 3 Circular and Rotational Motion: Applications of centripetal force, Flywheel, The Gyroscope, Example 3.2 — Ex: Multiple Choice Questions 3.6, 3.8, 3.9; Short Questions 3.3, 3.6, 3.8; Constructed Response Questions 3.2, 3.5, 3.6, 3.8; Numericals 3.3, 3.5, 3.10",
+      "Chapter 4 Work, Energy and Power: 4.1 Work done by a constant force, 4.5 Energy (K.E.), Examples 4.3 and 4.5 — Ex: Multiple Choice Questions 4.2, 4.4, 4.8, 4.9; Short Questions 4.2, 4.5, 4.8, 4.9; Constructed Response Questions 4.2, 4.3, 4.5, 4.7; Comprehensive Questions 4.1, 4.2 (Part-i); Numericals 4.2, 4.7, 4.8, 4.10",
+      "Chapter 5 Solids and Fluid Dynamics: 5.1 Classification of solids, 5.4 Determination of Young's modulus of a wire, 5.10 Increase in flow velocity, 5.15 Real fluids are viscous fluids, 5.16 Superfluids — Ex: Multiple Choice Questions 5.3, 5.9, 5.12; Short Questions 5.5, 5.6, 5.10; Constructed Response Questions 5.2, 5.5, 5.6; Comprehensive Questions 5.1, 5.4; Numericals 5.3, 5.5, 5.6",
+      "Chapter 6 Heat and Thermodynamics: 6.1 Assumptions of the kinetic theory of gases, 6.6 Heat engine, Example 6.1 — Ex: Multiple Choice Questions 6.3, 6.4, 6.7, 6.8, 6.10; Short Questions 6.1, 6.2, 6.9–6.11; Constructed Response Questions 6.4, 6.5; Comprehensive Questions 6.1, 6.2; Numericals 6.1, 6.2, 6.7, 6.8",
+      "Chapter 7 Waves and Vibrations: 7.1 Waves, 7.4 Stationary waves and their formation, Tuning musical instruments, Examples 7.6, 7.9 — Ex: Multiple Choice Questions 7.1, 7.3, 7.4, 7.9; Short Questions 7.4, 7.5; Constructed Response Questions 7.1, 7.3; Numericals 7.1, 7.2, 7.4, 7.5",
+      "Chapter 8 Physical Optics and Gravitational Waves: 8.2 Types of Polarization, Optical activity, Space-time distortion / tidal forces, Examples 8.5, 8.6 — Ex: Multiple Choice Questions 8.5, 8.8–8.10; Short Questions 8.4, 8.5; Constructed Response Questions 8.4, 8.6; Comprehensive Questions 8.1 (polarization part), 8.8; Numericals 8.1, 8.5, 8.9",
+      "Chapter 9 Electrostatics and Current Electricity: Electric field lines, Applications of Gauss's law, 9.7 Motion of charged particles in a uniform electric field, 9.8 Path of a charged particle, 9.9 Shielding from external electric field, 9.19 Use of a Galvanometer, Examples 9.9, 9.11 — Ex: Multiple Choice Questions 9.3, 9.6, 9.10; Short Questions 9.3, 9.8, 9.9; Constructed Response Questions 9.1–9.3; Numericals 9.3, 9.4, 9.7, 9.9",
+      "Chapter 10 Electromagnetism: 10.3 Magnetic flux linkage, 10.5 Velocity selector, 10.7 Lenz's law, Examples 10.2, 10.4, 10.5, 10.7 — Ex: Multiple Choice Questions 10.2, 10.3, 10.10; Short Questions 10.1, 10.4–10.7; Constructed Response Questions 10.2, 10.3, 10.8; Comprehensive Questions 10.3 (Lenz's law part), 10.5; Numericals 10.7–10.9, 10.11, 10.12",
+      "Chapter 11 Special Theory of Relativity: 11.5 Space-time in relativity — Ex: Multiple Choice Question 11.1; Short Questions 11.1, 11.4, 11.8; Constructed Response Questions 11.1, 11.2; Comprehensive Question 11.3; Numericals 11.7, 11.8",
+      "Chapter 12 Nuclear and Particle Physics: 12.8 Conservation laws, 12.10 Most of the matter in the observable universe is plasma, 12.11 The theories about the forces between the masses of particles, 12.12 The standard model — Ex: Multiple Choice Questions 12.2, 12.4, 12.5, 12.9, 12.15–12.17; Short Questions 12.2, 12.3, 12.7, 12.11, 12.13, 12.14; Constructed Response Questions 12.2, 12.4; Numerical 12.6"
+     ],
+     "icon": "⚛️",
+     "id": "phy11",
+     "instructions": [
+      "No question will be set from the deleted topics.",
+      "The modified scheme retains all core concepts needed for higher grades."
+     ],
+     "name": "Physics",
+     "objective": 17,
+     "pairing": "Question 1: 17 Multiple Choice Questions — 1 each from Chapter 1, 2, 3, 4, 6, 8, 11; 2 each from Chapter 5, 7, 9, 10, 12.  Question 2–Question 4: short questions (16+16+12).  Question 5–Question 9: attempt any 3 long questions, 8 marks each.",
+     "subjective": 68,
+     "summary": "Deleted topics and exercise questions are listed chapter-wise for all 12 chapters.",
+     "time": "3 hours",
+     "totalMarks": 85
+    },
+    {
+     "color": "#1565C0",
+     "deleted": [
+      "Unit 1 Periodic Table and Periodic Properties: 1.1 Historical Background, 1.2 Modern periodic table — main features, 1.4 Block in Periodic Table, 1.5 Families in Periodic Table — Ex: Multiple Choice Questions I, II; Short Questions c, g",
+      "Unit 2 Atomic Structure: 2.3.1 Atomic Spectra, 2.7 Electronic Configuration and the Periodic Table, 2.8 Electronic configuration of ions and free radicals, 2.9 Electronic configuration and the formation of semiconductors — Ex: Short Questions f, g, i; Descriptive Question 5",
+      "Unit 3 Chemical Bonding: 3.1 Types of Bonding, 3.2 Electronegativity and the type of bond, 3.3 Intermolecular Forces, 3.4 Bond Energy and Bond Length, 3.5 Comparison among ionic, covalent, metallic bond and intermolecular forces — Ex: Multiple Choice Questions I, II, III, VII, XII; Short Questions a, b, i, k–p",
+      "Unit 4 Stoichiometry: 4.7 Limiting and Excess Reactant, 4.9 Importance of Stoichiometry in production and dosage of medicine — Ex: Short Question g; Descriptive Question 3; Numerical 6",
+      "Unit 5 States and Phases of Matter: 5.10 Energetics of phase changes, 5.11 Solids — Ex: Multiple Choice Question IV; Short Questions d, j; Numericals 8, 9",
+      "Unit 6 Chemical Energetics: 6.11 Entropy, 6.12 The Free Energy Change — Ex: Multiple Choice Questions IV, XI, XII; Short Questions c, j; Numericals 9, 10",
+      "Unit 7 Reaction Kinetics: 7.5 Determination of Rate Constant, 7.6 Reaction Mechanism — Ex: Multiple Choice Questions VII–IX, XIII; Short Questions c, f–h, k–o; Descriptive Questions 4, 6; Numericals 7, 8",
+      "Unit 8 Chemical Equilibrium: 8.3 Relation between macroscopic and microscopic events, 8.4 Dynamic Equilibrium between two physical states, 8.5 Conditions for Equilibrium, 8.9 Relationships between various Equilibrium Constants, 8.16 Industrial Applications of Chemical Equilibrium — Ex: Multiple Choice Questions II, IV, VII; Short Questions e, h, i; Descriptive Questions 8, 9",
+      "Unit 9 Acid-Base Chemistry: 9.1 Bronsted-Lowry Concept, 9.2 Lewis's concept of acids and bases, 9.9 Salt Hydrolysis, 9.10 Acid-Base Indicators — Ex: Multiple Choice Questions I, IV–VII, IX; Short Questions c–f, k; Descriptive Questions 3, 4, 7",
+      "Unit 10 Electrochemistry: 10.8 Mass of a substance deposited during Electrolysis, 10.9 Amount of substance produced during Electrolysis, 10.10 Avogadro's Constant by the Electrolytic Method, 10.16 Applications of Eo values, 10.17 Variation of Eo with Ion Concentration, 10.18 Nernst Equation, 10.19 Activity Series of Metals, 10.20 Feasibility of Redox Reactions, 10.22 Winkler Method, BOD and DO — Ex: Multiple Choice Questions I, II, VIII–XI; Short Questions g–j; Descriptive Questions 3, 4; Numericals 7–9",
+      "Unit 11 Hydrocarbons: 11.9 Conjugated Dienes, 11.10 Isomerism, 11.11 Organic Redox Reactions — Ex: Multiple Choice Questions I, X; Short Questions a, f, h, j, l; Descriptive Question 6",
+      "Unit 12 Nitrogen and Sulfur: 12.12 Role of Sulfur in Organic Synthesis, 12.13 Sulfuric Acid — Ex: Multiple Choice Questions IX–XII; Short Questions i, l–p; Descriptive Questions 5, 6",
+      "Unit 13 Halogens: 13.6 Relative thermal stabilities of hydrogen halides, 13.7 Relative Reactivity of halide ions as Reducing Agents, 13.8 Reactions of halides with aqueous silver ion followed by aqueous ammonia, 13.9 Reactions of halides with concentrated Sulfuric Acid, 13.10 Reactions of chlorine with cold and hot aqueous sodium hydroxide — Ex: Multiple Choice Questions III–V, VII, IX, X; Short Questions k, m–o; Descriptive Questions 3, 5",
+      "Unit 14 Atmosphere: 14.8 Air Quality, 14.9 Air Quality and Human Health, 14.10 Air Pollution and Health Risks, 14.11 Methods and techniques to measure and monitor Air Quality, 14.12 Experiments and data collection to test hypothesis about Air Quality, 14.13 Analyze data and interpret Air Quality, 14.14 Strategies used to reduce Air Pollution, 14.15 Laws and regulations related to atmosphere, 14.16 Economic, social and political issues — Ex: Multiple Choice Questions III, IV, VIII, XI; Short Questions d, e, h, i, k–m; Descriptive Question 6",
+      "Unit 15 Basic Separation Techniques — FULL CHAPTER DELETED / EXCLUDED",
+      "Unit 16 Lab Safety and Practical Skills — FULL CHAPTER DELETED / EXCLUDED"
+     ],
+     "icon": "🧪",
+     "id": "chem11",
+     "instructions": [
+      "No question will be set from the deleted topics."
+     ],
+     "name": "Chemistry",
+     "objective": 17,
+     "pairing": "Question 1: 17 Multiple Choice Questions — 1 from each unit, except Units 1, 6 and 10 (2 each).  Question 2–Question 4: short questions.  Question 5–Question 9: long questions, choice-based.",
+     "subjective": 68,
+     "summary": "Deleted topics and exercise questions are listed unit-wise for all 16 units. Units 15 and 16 are fully deleted.",
+     "time": "3 hours",
+     "totalMarks": 85
+    },
+    {
+     "color": "#2E7D32",
+     "deleted": [
+      "Chapter 1 Biodiversity and Classification: How are Archaea unique, 1.2 Taxonomic Hierarchy, Table (page 21), Biodiversity (pages 27–30) — Ex: Multiple Choice Questions 2, 7–10; Short Questions 2, 6–9; Long Questions 1, 2, 7–11; Inquisitive Questions (all)",
+      "Chapter 2 Bacteria and Viruses: Bacteria Ecology and Diversity — Ex: Multiple Choice Questions 4 & 8; Short Questions 5 & 14; Long Questions 5 & 6; Inquisitive Questions (all)",
+      "Chapter 3 The Cells and Subcellular Organelles: 3.1 Cells — The basic Unit of life, 3.2 Cell Theory, 3.3 Microscopy, Techniques to study the structure of plasma membrane, Difference between prokaryotic and eukaryotic — Ex: Multiple Choice Questions 8, 9 & 11; Short Questions 1–3 & 14–15; Long Questions 1 & 13; Inquisitive Questions (all)",
+      "Chapter 4 Molecular Biology: 4.2 Types of Bonds in Biology, 4.3 Condensation (Synthesis) and Hydrolysis, Isomers of monosaccharides, Figure 4.38 and side box, Figure 4.43 (only structure of NAD) — Ex: Multiple Choice Question 9; Short Questions 1 & 3; Long Questions 2 & 5; Inquisitive Questions (all)",
+      "Chapter 5 Enzymes: Figure 5.12 — Ex: Multiple Choice Question 7; Short Question 5; Long Question 6; Inquisitive Questions (all)",
+      "Chapter 6 Bioenergetics: Role of Photosynthetic Pigments, Chlorophylls, Accessory Pigments, Other organic Molecules for Cellular Respiration, 6.3 Photorespiration — Ex: Multiple Choice Questions 6 & 10; Short Questions 7, 8 & 10; Long Questions 1 & 13–16; Inquisitive Questions (all)",
+      "Chapter 7 Structural and Computational Biology — WHOLE CHAPTER DELETED (pages 167–176)",
+      "Chapter 8 Plant Physiology: Macronutrients and micronutrients, Water potential, Plant Growth Regulators — Ex: Multiple Choice Questions 8 & 10; Short Questions 1–3; Inquisitive Questions (all)",
+      "Chapter 9 Human Digestive System: Storage and Metabolic role of liver — Ex: Multiple Choice Question 10; Short Questions 14 & 15; Inquisitive Questions (all)",
+      "Chapter 10 Human Respiratory System: Otitis media — Ex: Multiple Choice Question 6; Short Questions 3 & 7; Inquisitive Questions (all)",
+      "Chapter 11 Human Circulatory System: Ex: Multiple Choice Questions 5 & 8; Short Question 10; Inquisitive Questions (all)",
+      "Chapter 12 Human Skeletal and Muscular System: Bone development, Box (page 264), Boxes (page 265), Difference between tetanus and tetany and Boxes (page 277) — Ex: Multiple Choice Questions 8 & 12; Short Questions 8 & 13; Long Questions 9, 11 & 12; Inquisitive Questions (all)"
+     ],
+     "icon": "🌿",
+     "id": "bio11",
+     "instructions": [
+      "Focus on the core biological principles retained in the Smart Syllabus."
+     ],
+     "name": "Biology",
+     "objective": 17,
+     "pairing": "Theory paper: 85 marks, with the detailed pairing scheme in the official ALP document.",
+     "subjective": 68,
+     "summary": "Chapter 7 is fully deleted, plus the listed topics and questions in the other 11 chapters.",
+     "time": "3 hours",
+     "totalMarks": 85
+    },
+    {
+     "color": "#004D40",
+     "deleted": [
+      "حصہ نثر: چار پائی — از رشید احمد صدیقی — صفحہ 44 تا 49",
+      "حصہ نثر: پاکستانی زبانیں اور ان کا باہمی رشتہ — از ڈاکٹر ممتاز منگوری — صفحہ 90 تا 96",
+      "حصہ نظم: کھڑا ڈنر — از سید محمد جعفری — صفحہ 116 تا 119",
+      "حصہ غزل: پتا پتا، بوٹا بوٹا، حال ہمارا جانے ہے — از میر تقی میر — صفحہ 121 تا 125"
+     ],
+     "icon": "✒️",
+     "id": "urdu11",
+     "instructions": [
+      "مصنفین اور شعرا کے تعارف میں سے بورڈ کے امتحان میں کسی قسم کا سوال نہیں پوچھا جائے گا۔",
+      "امتحانی بورڈ کے پرچہ مرتبین کے لیے لازم ہے کہ سوالیہ پرچہ ترتیب دیتے ہوئے درج بالا اسباق میں سے معروضی، انشائی و دیگر نوعیت کے سوالات میں سے کوئی سوال یا جز شامل نہ کریں۔"
+     ],
+     "lang": "ur",
+     "name": "اردو",
+     "objective": 20,
+     "pairing": "پرچہ 100 نمبروں پر مشتمل ہوگا۔ معروضی طرز 20 نمبر (20 منٹ)، انشائی طرز 80 نمبر (2:40 گھنٹے)۔ سوال 1: Multiple Choice Questions 20 (5 درسی کتاب + 15 قواعد)۔ سوال 2: اشعار کی تشریح 20 (نظم 10 + غزل 10)۔ سوال 3: پیراگراف کی تشریح 15۔ سوال 4: نثری سبق کا خلاصہ 10۔ سوال 5: نظم کا خلاصہ یا مرکزی خیال 5۔ سوال 6: مکالمہ / مضمون 10۔ سوال 7: درخواست / خط 10۔ سوال 8: عبارت کی تلخیص 10۔",
+     "subjective": 80,
+     "summary": "اُردو لازمی برائے جماعت گیارہویں کی درسی کتاب میں سے طلبہ کی سہولت کے پیشِ نظر چار اسباق حذف کیے جا رہے ہیں تاکہ طلبہ بقیہ اسباق پر توجہ مرکوز کرتے ہوئے بھرپور تیاری کر سکیں۔",
+     "time": "3 hours",
+     "totalMarks": 100
+    },
+    {
+     "color": "#00695C",
+     "deleted": [
+      "باب اوّل: احادیثِ مبارکہ نمبر 3، 5، 8 اور 12",
+      "باب چہارم: معاشرتی تعلقات کے اخلاق و آداب",
+      "باب پنجم: وراثت کی اسلامی تعلیمات",
+      "باب ششم: صوفیہ کرامؒ — پیر سید مہر علی شاہؒ؛ میاں شیر محمد شرقپوریؒ",
+      "باب ہفتم: نظامِ اسلام کی بقا و تحفظ اور مسلمانوں کی ذمہ داریاں"
+     ],
+     "icon": "☪️",
+     "id": "isl11",
+     "instructions": [
+      "امتحانی بورڈ کے پرچہ مرتبین کے لیے لازم ہے کہ سوالنامہ پر ترتیب دیتے ہوئے درج بالا باب/عنوانات میں معروضی، انشائی و دیگر نوعیت کے سوالات میں سے کوئی سوال یا جز شامل نہ کریں۔",
+      "احادیث کا ترجمہ صرف باب اوّل میں دی گئی منتخب شدہ گیارہ احادیث میں سے ہی پوچھا جائے، حذف شدہ احادیث کا ترجمہ نہ پوچھا جائے۔"
+     ],
+     "lang": "ur",
+     "name": "اسلامیات",
+     "objective": 10,
+     "pairing": "پرچہ 50 نمبروں پر مشتمل ہوگا، وقت 2 گھنٹے۔ حصہ اوّل: Multiple Choice Questions 10۔ حصہ دوم: مختصر سوالات 20۔ حصہ سوم: (i) ترجمہ احادیثِ مبارکہ 4، (ii) تفصیلی سوالات 16۔ سوال 1: Multiple Choice Questions 10 — باب اوّل، چہارم، پنجم، ششم اور ہفتم میں سے ایک ایک، باب دوم میں سے تین اور باب سوم میں سے دو۔ سوال 2: مختصر سوالات 10 — صرف باب اوّل تا سوم سے۔ سوال 3: مختصر سوالات 10 — صرف باب چہارم تا ہفتم سے۔ سوال 4: ترجمہ احادیث 4 — باب اوّل کی منتخب شدہ گیارہ احادیث میں سے چار دی جائیں، دو کا ترجمہ پوچھا جائے۔ سوال 5: تفصیلی سوالات 16 — چار سوالات میں سے دو کے جواب (ہر سوال 8 نمبر)۔",
+     "subjective": 40,
+     "summary": "اسلامیات لازمی جماعت گیارہویں کی ٹیکسٹ بک میں سے طلبہ کی سہولت کے پیشِ نظر درج ذیل احادیثِ مبارکہ اور اسباق حذف کیے جا رہے ہیں تاکہ طلبہ بقیہ تمام اسباق پر توجہ مرکوز کرتے ہوئے بھرپور تیاری کر سکیں۔",
+     "time": "2 hours",
+     "totalMarks": 50
+    },
+    {
+     "color": "#37474F",
+     "deleted": [
+      "Unit 1 Introduction to Software Development: 1.5 Graphical Representation of Software Systems (pages 9–13) — Ex: Multiple Choice Question Number 7",
+      "Unit 2 Python Programming: 2.8 Object-Oriented Programming in Python, 2.9 Advanced Python Concepts, 2.10 Testing and Debugging in Python — Ex: Multiple Choice Question Number 6; Short Questions 5, 8; Long Question 1 (a, c)",
+      "Unit 3 Algorithms and Problem Solving: 3.3.3 Complexity Classes (P, NP, NP-hard, NP-complete) — Ex: Multiple Choice Questions Question 2–4; Long Question 1",
+      "Unit 4 Computational Structures — NO topic or exercise deleted (complete chapter retained)",
+      "Unit 5 Data Analytics: 5.3 Building Statistical Models, 5.4.1.5 Boxplots — Ex: Multiple Choice Questions Question 1, 4, 5, 7, 8; Short Questions 1, 2; Long Questions 1, 2",
+      "Unit 6 Emerging Technologies: 6.4 Introduction to Blockchain Technology, 6.5 Applications and Implications of Blockchain — Ex: Multiple Choice Questions Question 3, 5, 8; Short Questions 1, 2; Long Question 4",
+      "Unit 7 Legal and Ethical Aspects of Computing: 7.3 The Digital Divide and its Impacts — Ex: Multiple Choice Question Number 5; Short Question 3; Long Question 2",
+      "Unit 8 Online Research and Digital Literacy — NO topic or exercise deleted (complete chapter retained)",
+      "Unit 9 Entrepreneurship in Digital Age: 9.5 Financial Concepts for Business — Ex: Multiple Choice Question Number 8; Short Question 7"
+     ],
+     "icon": "💻",
+     "id": "cs11",
+     "instructions": [
+      "No objective, subjective or other question will be set from the excluded content.",
+      "Objective: 20 minutes. Subjective: 2 hours 10 minutes."
+     ],
+     "name": "Computer Science & Entrepreneurship",
+     "objective": 15,
+     "pairing": "Question 1: 15 Multiple Choice Questions — 3 from Unit 1; 1 each from Units 2, 3, 4, 6; 2 each from Units 5, 7, 8, 9.  Question 2–Question 4: 6 short out of 9 each (12 marks each).  Question 5–Question 9: attempt any 3 long questions, 8 marks each (24 marks).",
+     "subjective": 60,
+     "summary": "Deleted topics are listed unit-wise for all 9 units. Units 4 and 8 are fully retained.",
+     "time": "2 hours 30 min",
+     "totalMarks": 75
+    }
+   ],
+   "subtitle": "Grade 11  •  HSSC Part I — 1st Year",
+   "title": "Class 11"
+  },
+  {
+   "color": "#E65100",
+   "exam": "BISE Annual Exam 2027",
+   "icon": "12",
+   "id": "12",
+   "status": "COMING SOON — Not issued yet",
+   "statusType": "pending",
+   "subjects": [
+    {
+     "color": "#C62828",
+     "deleted": [
+      "⏳ Awaiting official PECTAA notification for 2026-27 — not issued as of 6 Nov 2026. Expected 15–20 Nov (reported).",
+      "Do not use last year's deleted list for the 2027 exam until PECTAA confirms it."
+     ],
+     "icon": "📖",
+     "id": "eng12",
+     "instructions": [
+      "Check pectaa.edu.pk for the official notification.",
+      "This app will be updated — only syllabus.json needs to change."
+     ],
+     "name": "English",
+     "objective": 0,
+     "pairing": "To be announced with the 2026-27 notification.",
+     "subjective": 0,
+     "summary": "2026-27 ALP for Class 12 has not been issued yet (as of 6 Nov 2026).",
+     "time": "To be announced",
+     "totalMarks": 100
+    },
+    {
+     "color": "#004D40",
+     "deleted": [
+      "⏳ Awaiting official PECTAA notification for 2026-27 — not issued as of 6 Nov 2026. Expected 15–20 Nov (reported)."
+     ],
+     "icon": "✒️",
+     "id": "urdu12",
+     "instructions": [
+      "Check pectaa.edu.pk for the official notification."
+     ],
+     "name": "Urdu",
+     "objective": 0,
+     "pairing": "To be announced with the 2026-27 notification.",
+     "subjective": 0,
+     "summary": "2026-27 ALP for Class 12 has not been issued yet (as of 6 Nov 2026).",
+     "time": "To be announced",
+     "totalMarks": 100
+    },
+    {
+     "color": "#0B6B3A",
+     "deleted": [
+      "⏳ Awaiting official PECTAA notification for 2026-27 — not issued as of 6 Nov 2026. Expected 15–20 Nov (reported)."
+     ],
+     "icon": "🇵🇰",
+     "id": "pak12",
+     "instructions": [
+      "Check pectaa.edu.pk for the official notification."
+     ],
+     "name": "Pakistan Studies",
+     "objective": 0,
+     "pairing": "To be announced with the 2026-27 notification.",
+     "subjective": 0,
+     "summary": "2026-27 ALP for Class 12 has not been issued yet (as of 6 Nov 2026).",
+     "time": "To be announced",
+     "totalMarks": 50
+    },
+    {
+     "color": "#0B6B3A",
+     "deleted": [
+      "⏳ Awaiting official PECTAA notification for 2026-27 — not issued as of 6 Nov 2026. Expected 15–20 Nov (reported)."
+     ],
+     "icon": "⚛️",
+     "id": "phy12",
+     "instructions": [
+      "Check pectaa.edu.pk for the official notification."
+     ],
+     "name": "Physics",
+     "objective": 0,
+     "pairing": "To be announced with the 2026-27 notification.",
+     "subjective": 0,
+     "summary": "2026-27 ALP for Class 12 has not been issued yet (as of 6 Nov 2026).",
+     "time": "To be announced",
+     "totalMarks": 85
+    },
+    {
+     "color": "#1565C0",
+     "deleted": [
+      "⏳ Awaiting official PECTAA notification for 2026-27 — not issued as of 6 Nov 2026. Expected 15–20 Nov (reported)."
+     ],
+     "icon": "🧪",
+     "id": "chem12",
+     "instructions": [
+      "Check pectaa.edu.pk for the official notification."
+     ],
+     "name": "Chemistry",
+     "objective": 0,
+     "pairing": "To be announced with the 2026-27 notification.",
+     "subjective": 0,
+     "summary": "2026-27 ALP for Class 12 has not been issued yet (as of 6 Nov 2026).",
+     "time": "To be announced",
+     "totalMarks": 85
+    },
+    {
+     "color": "#2E7D32",
+     "deleted": [
+      "⏳ Awaiting official PECTAA notification for 2026-27 — not issued as of 6 Nov 2026. Expected 15–20 Nov (reported)."
+     ],
+     "icon": "🌿",
+     "id": "bio12",
+     "instructions": [
+      "Check pectaa.edu.pk for the official notification."
+     ],
+     "name": "Biology",
+     "objective": 0,
+     "pairing": "To be announced with the 2026-27 notification.",
+     "subjective": 0,
+     "summary": "2026-27 ALP for Class 12 has not been issued yet (as of 6 Nov 2026).",
+     "time": "To be announced",
+     "totalMarks": 85
+    },
+    {
+     "color": "#6A1B9A",
+     "deleted": [
+      "⏳ Awaiting official PECTAA notification for 2026-27 — not issued as of 6 Nov 2026. Expected 15–20 Nov (reported)."
+     ],
+     "icon": "➗",
+     "id": "math12",
+     "instructions": [
+      "Check pectaa.edu.pk for the official notification."
+     ],
+     "name": "Mathematics",
+     "objective": 0,
+     "pairing": "To be announced with the 2026-27 notification.",
+     "subjective": 0,
+     "summary": "2026-27 ALP for Class 12 has not been issued yet (as of 6 Nov 2026).",
+     "time": "To be announced",
+     "totalMarks": 100
+    },
+    {
+     "color": "#37474F",
+     "deleted": [
+      "⏳ Awaiting official PECTAA notification for 2026-27 — not issued as of 6 Nov 2026. Expected 15–20 Nov (reported)."
+     ],
+     "icon": "💻",
+     "id": "cs12",
+     "instructions": [
+      "Check pectaa.edu.pk for the official notification."
+     ],
+     "name": "Computer Science",
+     "objective": 0,
+     "pairing": "To be announced with the 2026-27 notification.",
+     "subjective": 0,
+     "summary": "2026-27 ALP for Class 12 has not been issued yet (as of 6 Nov 2026).",
+     "time": "To be announced",
+     "totalMarks": 100
+    }
+   ],
+   "subtitle": "Grade 12  •  HSSC Part II — 2nd Year",
+   "title": "Class 12"
+  }
+ ],
+ "howToUpdate": [
+  "Open app/src/main/assets/syllabus.json — this ONE file is the whole syllabus.",
+  "To change a deleted topic: edit that subject's deleted list only. No code change is needed.",
+  "To add a new class: copy one class block, change its id, title and subjects.",
+  "To add a new subject: copy one subject block inside that class and fill name, marks, deleted, pairing and instructions.",
+  "Bump meta.dataVersion and meta.lastUpdated, then rebuild. The app reads the JSON at launch, so the new content appears automatically."
+ ],
+ "meta": {
+  "authority": "PECTAA — Punjab Education, Curriculum, Training and Assessment Authority",
+  "dataVersion": "1.7",
+  "exam": "BISE Annual Examination 2027",
+  "lastUpdated": "2026-11-14",
+  "note": "Class 9 Physics, Chemistry, Biology, Mathematics and Computer Science and Class 10 Physics, Chemistry, Biology, Mathematics and Computer Science also available in Urdu (toggle on the subject screen) — chapter and topic names taken from the official PCTB Urdu Medium textbooks (NCP 2023 editions). Urdu text in Jameel Noori Nastaleeq. Class 10 added 14 Nov 2026 (Notification 2026/1257); Grade 9 Computer Science & General Science updated 14 Nov 2026 (Notification 2026/1255).",
+  "notification10": "PECTAA/C&C Unit/2026/1257 dated 14.11.2026",
+  "notification11": "Grade 11 ALP re-notified 06.11.2026 — same as Notification No. PECTAA/C&C Unit/2025/399 dated 19.11.2025",
+  "notification9": "PECTAA/C&C Unit/2026/1238 dated 06.11.2026",
+  "notification9b": "PECTAA/C&C Unit/2026/1255 dated 14.11.2026 — Computer Science & Entrepreneurship, General Science, Masihi Taleem (Grade-9)",
+  "session": "2026-27",
+  "source": "pectaa.edu.pk",
+  "title": "ALP Smart Syllabus"
+ }
+}
