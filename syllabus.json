@@ -1161,24 +1161,7 @@
             "Unit 6 Data and Analytics — DELETED: Validation and Model Improvement (pages 82-83), Predictive Modeling and Causality (pages 83-84), Machine Learning Tools and Platforms (pages 84-85) — Ex: MCQ 10 (page 87); Short Questions 9, 10; Long Questions 7, 8 (page 88)",
             "Unit 7 Hypothesis Testing — DELETED: Data Visualization for Hypothesis Testing (pages 96-99) — Ex: MCQs 8-10 (page 101); Short Questions 8-10; Long Questions 5-8 (page 88)",
             "Unit 8 Applications of Computer Science — DELETED: Ethical and Cultural Implications of AI Systems (pages 108-111) — Ex: MCQs 5, 6 (page 116); Short Questions 5, 6; Long Question 7 (page 117)",
-            "Unit 9 Cybersecurity and Safe Digital Collaboration — DELETED: Digital Collaboration and Equity in Computing (pages 124-127); Ethical, Legal and Environmental Impacts of Computing (pages 131-133) — Ex: MCQs 7-10 (page 135); Short Questions 8, 9; Long Questions 7, 8 (page 136)",
-            "Practical (excluded): Set up basic networks, configure network devices, and establish network connections",
-            "Practical (excluded): Proficiency in using diagnostic tools and commands to identify and resolve network issues",
-            "Practical (excluded): Implement basic security measures",
-            "Practical (excluded): Implement inheritance hierarchies to represent relationships between objects",
-            "Practical (excluded): Implement polymorphism through method overriding and abstract classes or interfaces",
-            "Practical (excluded): Design interactive user interfaces using Tkinter components",
-            "Practical (excluded): Understand the event-driven nature of GUI applications and implementing event handlers",
-            "Practical (excluded): Handle user events, such as button clicks and mouse interactions, within Tkinter applications",
-            "Practical (excluded): Create responsive and visually appealing GUIs that enhance the user experience",
-            "Practical (excluded): Organize GUI elements in a structured and user-friendly layout",
-            "Practical (excluded): Troubleshoot and resolve GUI-related issues",
-            "Practical (excluded): Develop and execute comprehensive unit tests, analyze test results, and refine code based on testing outcomes",
-            "Practical (excluded): Evaluate machine learning models using various metrics, including error, accuracy, precision, recall, and F-measure; assess machine learning models with validation datasets to ensure their robustness",
-            "Practical (excluded): Implement train-test splitting of data to assess model performance; explain the meaning of machine learning model results in real-world scenarios",
-            "Practical (excluded): Apply feature engineering techniques in machine learning model building; interpret the results of machine learning model outputs, including identifying features with the most impact",
-            "Practical (excluded): Evaluate models with appropriate metrics related to the algorithm type and improve models using hyperparameter tuning",
-            "Practical (excluded): Interpret the visuals to support and illustrate conclusions drawn from hypothesis tests; use data analysis and statistical software tools (e.g., Excel, R, Python) to create data visuals; create graphs, bar charts, histograms, or other relevant data visualizations to represent data and findings"
+            "Unit 9 Cybersecurity and Safe Digital Collaboration — DELETED: Digital Collaboration and Equity in Computing (pages 124-127); Ethical, Legal and Environmental Impacts of Computing (pages 131-133) — Ex: MCQs 7-10 (page 135); Short Questions 8, 9; Long Questions 7, 8 (page 136)"
           ],
           "icon": "💻",
           "id": "cs12",
@@ -1209,7 +1192,7 @@
   ],
   "meta": {
     "authority": "PECTAA — Punjab Education, Curriculum, Training and Assessment Authority",
-    "dataVersion": "2.1",
+    "dataVersion": "1.0",
     "exam": "BISE Annual Examination 2027",
     "lastUpdated": "2026-11-16",
     "note": "Class 9 Physics, Chemistry, Biology, Mathematics and Computer Science and Class 10 Physics, Chemistry, Biology, Mathematics and Computer Science also available in Urdu (toggle on the subject screen) — chapter and topic names taken from the official PCTB Urdu Medium textbooks (NCP 2023 editions). Urdu text in Jameel Noori Nastaleeq. Class 10 added 14 Nov 2026 (Notification 2026/1257); Grade 9 Computer Science & General Science updated 14 Nov 2026 (Notification 2026/1255). Urdu-10 and Pakistan Studies-10 added from the PECTAA notification pages (14.11.2026). Grade 12 English, Physics, Biology, Mathematics, Computer Science & Entrepreneurship, and Chemistry updated from PECTAA Notification No. 1258 dated 14.11.2026. Urdu and Pakistan Studies Grade 12 are unchanged because this notification does not provide their ALP details. PECTAA states no Smart Syllabus / ALP has been developed or notified for Tarjama-tul-Quran and Ethics for Grades 9–12. Grade-12 content restructured 15 Nov 2026 to the same format as Grades 9-11 (one deleted entry per chapter/unit, one pairing block per question); source page references removed. Important Updates (news, admissions, exam dates) are in the top-level 'updates' list in this file — the app shows them on the home tile; add new items at the top, newest first.",
@@ -1229,7 +1212,7 @@
       "title": "",
       "titleUr": "میٹرک ایڈمیشن",
       "body": "",
-      "bodyUr": "کلاس نہم اور دھم کے بورڈ کے آن لائن داخلے جاری ہیں۔"
+      "bodyUr": "کلاس نہم اور دھم کے بورڈ کے آن لائن داخلے جاری ہیں۔ \nداخلے کا شیڈیول\nسنگل فیس = 10 نومبر سے 11 دسمبر  2026\nڈبل فیس = 12 دسمبر سے 28 دسمبر 2026\nٹرپل فیس = 29 دسمبر سے  11 جنوری 2027"
     }
   ]
 }
